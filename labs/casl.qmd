@@ -85,6 +85,12 @@ Methods that bridge AI and complex-systems modeling for societal and scientific 
 
 :::
 
+## Current student research
+
+Current CASL student projects include **graphon and graphlet theory for sparse neural connectivity**, **information flow in neural networks**, **information bottleneck analysis**, **molecular graph diffusion**, and **graph-based methods for biological and neural representations**.
+
+Current CASL students include [Siddhi Kanta Mishra](../people/students.qmd) (advised by Dr. Ivan Garibay).
+
 ## People
 
 CASL members are listed centrally on the BioMIND [People](../people/index.qmd) page.

@@ -48,6 +48,10 @@ Interpretability, calibration, fairness, and rigorous evaluation in biological M
 - **Binding-site augmented** drug-target affinity modeling for drug repurposing ([BindingSite-AugmentedDTA](../publications/index.qmd))
 - mRNA and biological-sequence **foundation models** for downstream biological tasks
 
+## Current student projects
+
+Current BioMIND student projects in this area include **RNA-seq interpretation**, **gene regulatory network modeling**, **biomolecular candidate screening**, **biomedical contradiction evaluation**, and **reliable learning from biological data**. See the [Students](../people/students.qmd) and [Publications](../publications/index.qmd) pages for details.
+
 ## Related faculty
 
 - [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — Human-CAIR / MoML

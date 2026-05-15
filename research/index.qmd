@@ -12,7 +12,9 @@ The portfolio is approximately **70% BioAI / AI for biology** and **30% complex 
 
 ::: {.bm-card .bm-pillar}
 [🧬]{.bm-card-icon}
+
 ### BioAI & AI for Biology
+
 Foundational ML and computational tools for biological data — sequences, structures, networks, and dynamics — to accelerate discovery.
 
 [Explore →](bioai.qmd){.bm-card-link}
@@ -20,7 +22,9 @@ Foundational ML and computational tools for biological data — sequences, struc
 
 ::: {.bm-card .bm-pillar}
 [⚛️]{.bm-card-icon}
+
 ### Molecular Machine Learning & Generative Discovery
+
 Geometric and generative models for molecular property prediction and de novo design.
 
 [Explore →](molecular-ml.qmd){.bm-card-link}
@@ -28,7 +32,9 @@ Geometric and generative models for molecular property prediction and de novo de
 
 ::: {.bm-card .bm-pillar}
 [🔬]{.bm-card-icon}
+
 ### Biomolecular Foundation Models
+
 Pretraining and adaptation of large-scale models for proteins, mRNA, and multimodal biomolecular data.
 
 [Explore →](foundation-models.qmd){.bm-card-link}
@@ -36,7 +42,9 @@ Pretraining and adaptation of large-scale models for proteins, mRNA, and multimo
 
 ::: {.bm-card .bm-pillar}
 [🌐]{.bm-card-icon}
+
 ### Network Science & Complex Adaptive Systems
+
 Collective dynamics, information flows, and emergent behavior in biological, social, and cyber-social systems.
 
 [Explore →](complex-systems.qmd){.bm-card-link}
@@ -44,7 +52,9 @@ Collective dynamics, information flows, and emergent behavior in biological, soc
 
 ::: {.bm-card .bm-pillar}
 [🧠]{.bm-card-icon}
+
 ### Explainable, Trustworthy & Human-Centered AI
+
 Interpretability, fairness, accountability, and human-aligned design in high-stakes AI.
 
 [Explore →](trustworthy-ai.qmd){.bm-card-link}
@@ -52,7 +62,9 @@ Interpretability, fairness, accountability, and human-aligned design in high-sta
 
 ::: {.bm-card .bm-pillar}
 [🤖]{.bm-card-icon}
+
 ### Agentic AI for Scientific Discovery
+
 LLM-driven and multi-agent systems that plan, hypothesize, and iterate with humans in scientific workflows.
 
 [Explore →](agentic-ai.qmd){.bm-card-link}

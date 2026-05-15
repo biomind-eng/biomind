@@ -44,6 +44,10 @@ Probing, attribution, and faithful explanation methods for large biological mode
 
 :::
 
+## Current student projects
+
+Current BioMIND student projects in this area include **robust foundation models for gene regulation**, **LLM-enabled biomedical knowledge extraction**, **parameter-efficient fine-tuning**, and **trustworthy foundation models for scientific data**. See the [Students](../people/students.qmd) page for current researchers.
+
 ## Related faculty
 
 - [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL (foundation models, LLMs, AI for scientific discovery)

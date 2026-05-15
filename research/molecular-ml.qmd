@@ -61,6 +61,10 @@ End-to-end pipelines combining prediction, generation, and prioritization.
 - [**BoKDiff**](../publications/index.qmd) — Best-of-K diffusion alignment for target-specific 3D molecule generation
 - [**BindingSite-AugmentedDTA**](../publications/index.qmd) — binding-site-aware drug repurposing pipeline
 
+## Current student projects
+
+Current BioMIND student projects in this area include **motif-constrained molecular diffusion**, **molecular representation learning**, and **AI-enabled molecule generation**. See the [Students](../people/students.qmd) page for current researchers and the [Publications](../publications/index.qmd) page for posters, submissions, and manuscripts in preparation.
+
 ## Related faculty
 
 - [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — MoML / Human-CAIR

@@ -80,6 +80,12 @@ Attribution, attention, and concept-based explanations for biomolecular models.
 - [**BoKDiff**](../publications/index.qmd) — Best-of-K diffusion alignment for 3D molecule generation (*Bioinformatics Advances*, 2025)
 - [**BindingSite-AugmentedDTA**](../publications/index.qmd) — interpretable drug repurposing pipeline (*Briefings in Bioinformatics*, 2023)
 
+## Current student research
+
+MoML-affiliated student research includes **motif-constrained discrete diffusion for molecule generation**, **molecular representation learning**, **biomedical NLP**, and **LLM-enabled pharmaceutical literature analysis**.
+
+Current students with MoML-aligned projects include [Tasfia Nuzhat](../people/students.qmd) and [Siddhi Kanta Mishra](../people/students.qmd).
+
 ## People
 
 MoML members are listed centrally on the BioMIND [People](../people/index.qmd) page.

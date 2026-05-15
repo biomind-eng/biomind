@@ -88,6 +88,12 @@ Data-driven and simulation-based study of collective behavior.
 
 :::
 
+## Current student research
+
+AI-AIR-affiliated student research includes **reliable learning for biological datasets**, **weak supervision and distribution shift**, **biomedical AI**, **RNA-seq interpretation**, **uncertainty-aware LLMs**, **trustworthy AI**, and **AI-guided scientific discovery**.
+
+Current students working with AI-AIR include [Mehrdad Shoeibi](../people/students.qmd), [Tasfia Nuzhat](../people/students.qmd), and [Elias Hossain](../people/students.qmd).
+
 ## People
 
 AI-AIR members are listed centrally on the BioMIND [People](../people/index.qmd) page.

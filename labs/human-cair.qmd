@@ -78,6 +78,12 @@ Probing, attribution, and concept-based explanation methods.
 
 :::
 
+## Related student research
+
+Related student work includes **trustworthy AI**, **uncertainty quantification**, **reliable AI under distribution shift**, **explainable healthcare AI**, and **human-centered AI applications in scientific and clinical settings**.
+
+Students with research aligned to Human-CAIR themes include [Elias Hossain](../people/students.qmd) and [Mehrdad Shoeibi](../people/students.qmd).
+
 ## People
 
 Human-CAIR members are listed centrally on the BioMIND [People](../people/index.qmd) page.

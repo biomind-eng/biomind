@@ -49,6 +49,10 @@ Calibrated, explainable AI for hypothesis generation and prioritization.
 
 :::
 
+## Current student projects
+
+Current BioMIND student projects in this area include **agentic AI**, **uncertainty-aware reasoning**, **RAG systems**, **preference optimization**, **multi-agent verification**, and **AI-assisted scientific discovery**. See the [Students](../people/students.qmd) and [Publications](../publications/index.qmd) pages.
+
 ## Related faculty
 
 - [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL (foundation models, LLMs, agentic systems)

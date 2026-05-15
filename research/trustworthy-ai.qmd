@@ -62,6 +62,10 @@ The interplay of AI, networks, and adversarial information dynamics.
 A major international collaboration identifying grand challenges for creating AI technologies that are ethical, fair, human-centered, and beneficial to society.
 :::
 
+## Current student projects
+
+Current BioMIND student projects in this area include **reliable learning under weak supervision and distribution shift**, **uncertainty quantification in LLMs**, **preference alignment**, **multi-agent verification**, **explainable healthcare AI**, and **trustworthy BioAI**. See the [Students](../people/students.qmd) and [Publications](../publications/index.qmd) pages.
+
 ## Related faculty
 
 - [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — Human-CAIR

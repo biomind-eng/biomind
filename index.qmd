@@ -38,7 +38,9 @@ include-in-header:
 
 ::: {.bm-card .bm-pillar}
 [🧬]{.bm-card-icon}
+
 ### BioAI & AI for Biology
+
 Machine learning models that read, generate, and reason about the molecules of life — proteins, nucleic acids, and beyond — to accelerate biological discovery.
 
 [Read more →](research/bioai.qmd){.bm-card-link}
@@ -46,7 +48,9 @@ Machine learning models that read, generate, and reason about the molecules of l
 
 ::: {.bm-card .bm-pillar}
 [⚛️]{.bm-card-icon}
+
 ### Molecular Machine Learning & Generative Discovery
+
 Geometric deep learning, diffusion, and equivariant architectures for molecular property prediction and de novo design across small molecules and biomolecules.
 
 [Read more →](research/molecular-ml.qmd){.bm-card-link}
@@ -54,7 +58,9 @@ Geometric deep learning, diffusion, and equivariant architectures for molecular 
 
 ::: {.bm-card .bm-pillar}
 [🔬]{.bm-card-icon}
+
 ### Biomolecular Foundation Models
+
 Pretraining and adaptation of large-scale models — including mRNA, protein, and multi-modal biomolecular foundation models — for downstream scientific tasks.
 
 [Read more →](research/foundation-models.qmd){.bm-card-link}
@@ -62,7 +68,9 @@ Pretraining and adaptation of large-scale models — including mRNA, protein, an
 
 ::: {.bm-card .bm-pillar}
 [🌐]{.bm-card-icon}
+
 ### Network Science & Complex Adaptive Systems
+
 Modeling collective dynamics, information flows, and emergent behavior in biological, social, and cyber-social systems.
 
 [Read more →](research/complex-systems.qmd){.bm-card-link}
@@ -70,7 +78,9 @@ Modeling collective dynamics, information flows, and emergent behavior in biolog
 
 ::: {.bm-card .bm-pillar}
 [🧠]{.bm-card-icon}
+
 ### Explainable, Trustworthy & Human-Centered AI
+
 Methods and frameworks for interpretable, fair, accountable, and human-aligned AI systems in high-stakes scientific and societal settings.
 
 [Read more →](research/trustworthy-ai.qmd){.bm-card-link}
@@ -78,7 +88,9 @@ Methods and frameworks for interpretable, fair, accountable, and human-aligned A
 
 ::: {.bm-card .bm-pillar}
 [🤖]{.bm-card-icon}
+
 ### Agentic AI for Scientific Discovery
+
 Autonomous and collaborative agents that hypothesize, plan experiments, and iterate with humans to drive scientific workflows in biology and beyond.
 
 [Read more →](research/agentic-ai.qmd){.bm-card-link}

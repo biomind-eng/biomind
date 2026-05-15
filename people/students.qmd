@@ -1,14 +1,10 @@
 ---
 title: "Students"
-subtitle: "Graduate and undergraduate researchers across BioMIND"
+subtitle: "Graduate and undergraduate researchers"
 description: "Ph.D., M.S., and undergraduate researchers contributing to BioMIND's work in BioAI, molecular ML, complex systems, and trustworthy AI."
 ---
 
-::: {.bm-callout .bm-callout-gold}
-**Student profiles are being collected.** Each student profile may include program, advisor, lab affiliation, research keywords, short bio, publication links, GitHub, Google Scholar, LinkedIn, ORCID, personal website, and headshot. See the [README](../README.md) for the full content checklist.
-:::
-
-BioMIND students work on problems at the frontier of **BioAI**, **molecular machine learning**, **biological foundation models**, **network science**, **trustworthy AI**, and **agentic AI for scientific discovery**, across the cluster's four labs.
+BioMIND students work on problems at the frontier of **BioAI**, **molecular machine learning**, **biological foundation models**, **network science**, **trustworthy AI**, and **agentic AI for scientific discovery**.
 
 ## Ph.D. Students
 
@@ -16,24 +12,93 @@ BioMIND students work on problems at the frontier of **BioAI**, **molecular mach
 
 ::: {.bm-person-card}
 ::: {.bm-person-photo}
-S
+![Headshot of Tasfia Nuzhat](../assets/people/tasfia-nuzhat.jpeg)
 :::
-### Student Name
-[Ph.D. · Year]{.bm-person-role}
-[Advisor: Faculty Name · Lab]{.bm-person-affil}
+### Tasfia Nuzhat
+[First-Year Ph.D. Student · Industrial Engineering]{.bm-person-role}
+[Advisor: Dr. Niloofar Yousefi]{.bm-person-affil}
 
-*Short bio to be updated.*
+Tasfia Nuzhat is a first-year Ph.D. student in Industrial Engineering at the University of Central Florida, advised by Dr. Niloofar Yousefi. Her research interests include generative AI, large language models, bioinformatics, biomedical machine learning, and molecular generation. Her current work aligns with BioMIND's molecular intelligence and AI4Science directions, including motif-constrained discrete diffusion for molecule generation and LLM-enabled biomedical knowledge extraction. Before joining UCF, she worked as a Graduate Research Assistant at Universiti Tenaga Nasional, Malaysia, where she conducted machine learning research for nanomaterials and material-property prediction, and as an AI Engineer developing LLM-powered systems for pharmaceutical literature analysis, biomedical retrieval, clinical data analysis, and explainable AI.
 
 ::: {.bm-tags}
-[BioAI]{.bm-tag} [Molecular ML]{.bm-tag} [Network Science]{.bm-tag}
+[Generative AI]{.bm-tag} [Large Language Models]{.bm-tag} [Bioinformatics]{.bm-tag} [Molecular Generation]{.bm-tag} [Diffusion Models]{.bm-tag} [Biomedical NLP]{.bm-tag} [Retrieval-Augmented Generation]{.bm-tag} [Explainable AI]{.bm-tag} [Clinical Data Analysis]{.bm-tag} [Pharmaceutical Literature Mining]{.bm-tag} [Parameter-Efficient Fine-Tuning]{.bm-tag}
 :::
 
 ::: {.bm-person-links}
-[Email](mailto:placeholder@ucf.edu)
-[Scholar](#)
-[GitHub](#)
-[LinkedIn](#)
-[Website](#)
+[LinkedIn — to be added](#)
+[GitHub — to be added](#)
+[Scholar — to be added](#)
+:::
+:::
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Siddhi Kanta Mishra](../assets/people/siddhi-kanta-mishra.jpeg)
+:::
+### Siddhi Kanta Mishra
+[Ph.D. Student · IEMS · Graduate Research Assistant, CASL]{.bm-person-role}
+[Advisor: Dr. Ivan Garibay]{.bm-person-affil}
+
+Siddhi Kanta Mishra is a Ph.D. student in Industrial Engineering and Management Systems at the University of Central Florida and a Graduate Research Assistant in the Complex Adaptive Systems Laboratory, advised by Dr. Ivan Garibay. His research lies at the intersection of graph limits, network science, AI explainability, information flow in neural networks, diffusion models, and molecular representation learning. His current work studies graphon and graphlet perspectives on sparse neural connectivity, information-bottleneck-based analysis of neural systems, molecular graph diffusion, and graph-based methods for biological and neural representations. He previously completed an M.S. in Mathematics at UCF and a BS–MS in Mathematical Sciences from IISER Kolkata.
+
+::: {.bm-tags}
+[Graph Limits]{.bm-tag} [AI Explainability]{.bm-tag} [Information Flow in Neural Networks]{.bm-tag} [Network Science]{.bm-tag} [Diffusion Models]{.bm-tag} [Molecular Representation Learning]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[LinkedIn](https://www.linkedin.com/in/siddhi-kanta-mishra-9b7487133/)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Rd2vryMAAAAJ)
+[Blog](https://thecombinatorist.wordpress.com)
+:::
+:::
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Mehrdad Shoeibi](../assets/people/mehrdad-shoeibi.jpg)
+:::
+### Mehrdad Shoeibi
+[First-Year Ph.D. Student · Industrial Engineering]{.bm-person-role}
+[Advisor: Dr. Niloofar Yousefi]{.bm-person-affil}
+
+Mehrdad Shoeibi is a first-year Ph.D. student in Industrial Engineering at the University of Central Florida, advised by Dr. Niloofar Yousefi. His research focuses on machine learning, generative AI, foundation models, and reliable AI systems for scientific and healthcare applications. His current work investigates how machine learning models can remain reliable under weak supervision, distribution shift, and supervision drift in biological datasets, with broader interests in robust foundation models for gene regulation. He has also worked on generative AI applications in healthcare, including chronic wound image classification, annotation, and decision support. Before joining UCF, he completed an M.S. in Information Technology at Worcester Polytechnic Institute.
+
+::: {.bm-tags}
+[BioAI]{.bm-tag} [AI4Science]{.bm-tag} [Machine Learning]{.bm-tag} [Generative AI]{.bm-tag} [Foundation Models]{.bm-tag} [Gene Regulation]{.bm-tag} [Healthcare AI]{.bm-tag} [Weak Supervision]{.bm-tag} [Distribution Shift]{.bm-tag} [Explainable AI]{.bm-tag} [Reliable AI]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[Website](https://mehrdadshoeibi.me/)
+[LinkedIn](https://www.linkedin.com/in/mehrdad-shoeibi/)
+[Google Scholar](https://scholar.google.com/citations?user=1M23aUoAAAAJ&hl=en&oi=ao)
+:::
+:::
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Elias Hossain](../assets/people/elias-hossain.jpg)
+:::
+### Elias Hossain
+[First-Year Ph.D. Student · Industrial Engineering]{.bm-person-role}
+[Advisor: Dr. Niloofar Yousefi]{.bm-person-affil}
+
+Elias Hossain is a first-year Ph.D. student in Industrial Engineering at the University of Central Florida, advised by Dr. Niloofar Yousefi. His research focuses on uncertainty quantification in large language models, trustworthy AI, LLM alignment, preference optimization, uncertainty-aware reasoning, reinforcement learning, and agentic AI. Before joining UCF, he completed an M.S. in Computer Science at Mississippi State University, where his research concentrated on LLM-based topic modeling, cybersecurity, and healthcare AI. His previous work includes contrastive learning for anomaly detection in large-scale security logs, domain-specific LLMs for threat reasoning, retrieval-augmented generation systems, speech AI, and medical AI applications.
+
+::: {.bm-glance}
+#### Research impact
+<!-- TODO(confirm): Verify citation and h-index numbers before public launch. -->
+
+- 870+ citations
+- h-index 12
+:::
+
+::: {.bm-tags}
+[Trustworthy AI]{.bm-tag} [Uncertainty Quantification]{.bm-tag} [Large Language Models]{.bm-tag} [LLM Alignment]{.bm-tag} [Preference Optimization]{.bm-tag} [Reinforcement Learning]{.bm-tag} [Agentic AI]{.bm-tag} [Retrieval-Augmented Generation]{.bm-tag} [Cybersecurity AI]{.bm-tag} [Healthcare AI]{.bm-tag} [Biomedical Contradiction Evaluation]{.bm-tag} [Multi-Agent Verification]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[Email](mailto:mdelias.hossain@ucf.edu)
+[Scholar — to be added](#)
+[GitHub — to be added](#)
 :::
 :::
 
@@ -41,56 +106,14 @@ S
 
 ## M.S. Students
 
-::: {.bm-grid .bm-grid-3}
-
-::: {.bm-person-card}
-::: {.bm-person-photo}
-S
-:::
-### Student Name
-[M.S. · Year]{.bm-person-role}
-[Advisor: Faculty Name · Lab]{.bm-person-affil}
-
-*Short bio to be updated.*
-
-::: {.bm-tags}
-[Research Keyword]{.bm-tag} [Research Keyword]{.bm-tag}
-:::
-
-::: {.bm-person-links}
-[Email](mailto:placeholder@ucf.edu)
-[Scholar](#)
-[GitHub](#)
-[LinkedIn](#)
-:::
-:::
-
+::: {.bm-callout .bm-callout-gold}
+**Profiles being collected.** M.S. student profiles will be added as students submit their materials. See the *How to add or update your profile* section below.
 :::
 
 ## Undergraduate Researchers
 
-::: {.bm-grid .bm-grid-3}
-
-::: {.bm-person-card}
-::: {.bm-person-photo}
-S
-:::
-### Student Name
-[Undergraduate Researcher]{.bm-person-role}
-[Advisor: Faculty Name · Lab]{.bm-person-affil}
-
-*Short bio to be updated.*
-
-::: {.bm-tags}
-[Research Keyword]{.bm-tag} [Research Keyword]{.bm-tag}
-:::
-
-::: {.bm-person-links}
-[GitHub](#)
-[LinkedIn](#)
-:::
-:::
-
+::: {.bm-callout .bm-callout-gold}
+**Profiles being collected.** Undergraduate researcher profiles will be added as students submit their materials.
 :::
 
 ## Alumni
@@ -104,13 +127,17 @@ See the [Alumni](alumni.qmd) page for former Ph.D., M.S., undergraduate, and pos
 3. Replace the placeholder fields:
    - **Name** — full name as you'd like it displayed
    - **Program / Year** — e.g., *Ph.D. Candidate · Year 3*
-   - **Advisor and Lab** — primary advisor and lab affiliation
-   - **Bio** — 1–3 sentences
-   - **Research keywords** — 2–5 tags
-   - **Links** — email, Scholar, GitHub, LinkedIn, ORCID, personal website
+   - **Advisor** — primary advisor (omit cluster affiliation; all listed students are part of BioMIND)
+   - **Bio** — 2–4 sentences
+   - **Research keywords** — 3–8 tags
+   - **Links** — Scholar, GitHub, LinkedIn, ORCID, personal website (omit phone numbers and personal addresses)
 4. (Optional) Drop a square headshot in `assets/people/firstname-lastname.jpeg` and replace the initials placeholder with `![Headshot of Your Name](../assets/people/firstname-lastname.jpeg)` inside the `bm-person-photo` block.
 5. Submit a pull request, or send the snippet to the cluster coordinator.
 
+::: {.bm-callout}
+**Note on paper status.** For papers under review or in preparation, please label clearly as *submitted*, *under review*, *accepted poster*, *accepted oral*, or *manuscript in preparation* — do not list venues as if the paper were already accepted unless a confirmation has been received.
+:::
+
 ## Publications
 
-Student publications are listed on the central [Publications](../publications/index.qmd) page. You can also link to your own Google Scholar profile directly from your card.
+Student publications, posters, and submissions are listed centrally on the [Publications](../publications/index.qmd) page, grouped by student.

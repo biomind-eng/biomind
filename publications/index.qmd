@@ -182,6 +182,240 @@ Additional human-centered and trustworthy AI publications to be added by Human-C
 :::
 :::
 
+## Student Publications, Posters, and Submissions
+
+Selected publications, posters, and submissions from BioMIND Ph.D. students. Status labels indicate the current stage of each work — published, accepted (oral / poster), submitted, under review, or manuscript in preparation.
+
+### Tasfia Nuzhat
+
+::: {.bm-pub-card}
+[Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data.]{.bm-pub-title}
+
+[Nuzhat, T. *et al.*]{.bm-pub-authors}
+
+[*Scientific Reports*]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Published]{.bm-pub-tag} [Biomedical NLP]{.bm-pub-tag}
+:::
+
+<!-- TODO(confirm): Verify final author list and publication year. -->
+:::
+
+::: {.bm-pub-card}
+[A Review on Machine Learning in Photocatalytic Degradation of Organic Dyes from Wastewater: Current Trends and Future Directions.]{.bm-pub-title}
+
+[Nuzhat, T. *et al.*]{.bm-pub-authors}
+
+[*Journal of Water Process Engineering*]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Published]{.bm-pub-tag} [Machine Learning]{.bm-pub-tag}
+:::
+
+<!-- TODO(confirm): Verify final author list and publication year. -->
+:::
+
+::: {.bm-pub-card}
+[MoCDiff: Efficient Motif-Constrained Discrete Diffusion for Molecule Generation.]{.bm-pub-title}
+
+[Nuzhat, T. *et al.*]{.bm-pub-authors}
+
+[ICML 2026 Workshop on Generative & Agentic AI for Biology]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Submitted]{.bm-pub-tag} [Molecular Generation]{.bm-pub-tag} [Diffusion Models]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models.]{.bm-pub-title}
+
+[Nuzhat, T. *et al.*]{.bm-pub-authors}
+
+[Venue · *to be added*]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Under review]{.bm-pub-tag} [Survey]{.bm-pub-tag} [LLMs]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[A Multi-Scale Hyper Representation Network for Semantic Segmentation of Pulmonary Circulation Vessels in Pathology Assessment.]{.bm-pub-title}
+
+[Nuzhat, T. *et al.*]{.bm-pub-authors}
+
+[IEEE-EMBS IECBES · 2024]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Published]{.bm-pub-tag} [Medical Imaging]{.bm-pub-tag}
+:::
+:::
+
+### Siddhi Kanta Mishra
+
+::: {.bm-pub-card}
+[From Graphons to Graphlets: A Graph-Limit Lens on Sparse Neural Connectivity and Training.]{.bm-pub-title}
+
+[Mishra, S. K.; Garibay, I.]{.bm-pub-authors}
+
+[Network Science Informs AI Satellite, NetSci · 2026]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Accepted oral]{.bm-pub-tag} [Graph Limits]{.bm-pub-tag} [Network Science]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[Beyond Edge Prediction: Residual Set Modeling for Combinatorial Gene Regulation.]{.bm-pub-title}
+
+[Rahimimovassagh, M.; Mishra, S. K.; Garibay, I.; Yousefi, N.]{.bm-pub-authors}
+
+[Gen2 Workshop at ICLR · 2026]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Accepted poster]{.bm-pub-tag} [Gene Regulation]{.bm-pub-tag} [BioAI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[From Edge Detection to Regulatory Logic Discovery: Residual Set Models for Exact Regulator Recovery in Gene Regulatory Networks.]{.bm-pub-title}
+
+[Mishra, S. K.; Rahimimovassagh, M.; Yousefi, N.; Garibay, I.]{.bm-pub-authors}
+
+[Machine Learning for Genomics Explorations Workshop at ICLR · 2026]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Accepted poster]{.bm-pub-tag} [Gene Regulation]{.bm-pub-tag} [BioAI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[Graphon-Based Information Bottleneck Analysis of Neural Networks via Stochastic Block Models.]{.bm-pub-title}
+
+[Mishra, S. K.; Jayalath, C.; Garibay, I.]{.bm-pub-authors}
+
+[NeurIPS 2025 Workshop on Symmetry and Geometry in Neural Representations (NeurReps)]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Submitted]{.bm-pub-tag} [Information Bottleneck]{.bm-pub-tag} [Graph Limits]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[MoCDiff: Efficient Motif-Constrained Discrete Diffusion for Molecule Generation.]{.bm-pub-title}
+
+[Mishra, S. K.; Ornee, T.; Garibay, I.; Yousefi, N.; Basher, J.; Garibay, O.]{.bm-pub-authors}
+
+[Manuscript in preparation]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Manuscript in preparation]{.bm-pub-tag} [Molecular Generation]{.bm-pub-tag} [Diffusion Models]{.bm-pub-tag}
+:::
+
+<!-- TODO(confirm): Final author list and target venue. -->
+:::
+
+### Mehrdad Shoeibi
+
+::: {.bm-pub-card}
+[BioGen: An evidence-grounded framework for interpreting RNA-seq gene clusters in antimicrobial resistance research.]{.bm-pub-title}
+
+[Hossain, E.; Shoeibi, M.; Garibay, I.; Yousefi, N.]{.bm-pub-authors}
+
+[RECOMB-RSG · 2026]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Accepted poster]{.bm-pub-tag} [BioAI]{.bm-pub-tag} [RNA-seq]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[Utilizing Generative AI for the Production, Classification, and Annotation of Chronic Wound Images: A Systematic Review.]{.bm-pub-title}
+
+[Shoeibi, M.; Tulu, B.; Agu, E. O.]{.bm-pub-authors}
+
+[AMCIS 2024 TREOs · 193]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Published]{.bm-pub-tag} [Healthcare AI]{.bm-pub-tag} [Generative AI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[Learning Reliable Models under Weak Supervision and Distribution Shift.]{.bm-pub-title}
+
+[Shoeibi, M. *and collaborators*]{.bm-pub-authors}
+
+[Ongoing Ph.D. research direction]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Ongoing]{.bm-pub-tag} [Reliable AI]{.bm-pub-tag} [Weak Supervision]{.bm-pub-tag}
+:::
+:::
+
+### Elias Hossain
+
+::: {.bm-pub-card}
+[When policies cannot be retrained: A unified closed-form view of post-training steering in offline reinforcement learning.]{.bm-pub-title}
+
+[Hossain, E. *et al.*]{.bm-pub-authors}
+
+[NeurIPS 2026 Main Track]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Submitted]{.bm-pub-tag} [Reinforcement Learning]{.bm-pub-tag} [LLM Alignment]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[MIRAGE-BIO: A robust inference-time screening system for biomolecular candidate selection under unreliable surrogate evidence.]{.bm-pub-title}
+
+[Hossain, E. *et al.*]{.bm-pub-authors}
+
+[NeurIPS 2026 Main Track]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Submitted]{.bm-pub-tag} [BioAI]{.bm-pub-tag} [Trustworthy AI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[BioDivergence: A leakage-aware benchmark for contextual biomedical contradiction evaluation.]{.bm-pub-title}
+
+[Hossain, E. *et al.*]{.bm-pub-authors}
+
+[NeurIPS 2026 Datasets and Benchmarks Track]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Submitted]{.bm-pub-tag} [Benchmark]{.bm-pub-tag} [Biomedical NLP]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[Before the gradient: Preference alignment requires verified supervision.]{.bm-pub-title}
+
+[Hossain, E. *et al.*]{.bm-pub-authors}
+
+[NeurIPS 2026 Position Track]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Submitted]{.bm-pub-tag} [Preference Alignment]{.bm-pub-tag} [Trustworthy AI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[Fault-tolerant preference alignment via multi-agent verification.]{.bm-pub-title}
+
+[Hossain, E. *et al.*]{.bm-pub-authors}
+
+[ICLR Trustworthy AI Workshop]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Published]{.bm-pub-tag} [Multi-Agent Verification]{.bm-pub-tag} [Preference Alignment]{.bm-pub-tag}
+:::
+:::
+
 ## Publications to be updated after faculty review
 
 ::: {.bm-callout .bm-callout-gold}

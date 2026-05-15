@@ -59,6 +59,10 @@ Data-driven and simulation-based study of human collective behavior.
 
 :::
 
+## Current student projects
+
+Current BioMIND student projects in this area include **graphon and graphlet models of sparse neural connectivity**, **information flow in neural networks**, and **network-science approaches to biological and neural systems**. See the [Students](../people/students.qmd) and [Publications](../publications/index.qmd) pages.
+
 ## Related faculty
 
 - [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL

@@ -12,43 +12,57 @@ BioMIND is committed to building educational and outreach activities around **Bi
 
 ::: {.bm-card}
 [🎓]{.bm-card-icon}
+
 ### Student mentoring
+
 Mentoring of undergraduate, master's, and Ph.D. students across the cluster's labs, including independent study, REU placements, and senior design projects.
 :::
 
 ::: {.bm-card}
 [🛠️]{.bm-card-icon}
+
 ### Workshops and tutorials
+
 Hands-on workshops on BioAI, molecular ML, trustworthy AI, and complex-systems methods for students and partner organizations.
 :::
 
 ::: {.bm-card}
 [🗣️]{.bm-card-icon}
+
 ### Public talks
+
 Lectures, panels, and invited talks for academic and public audiences on AI, biology, and intelligent systems.
 :::
 
 ::: {.bm-card}
 [🔬]{.bm-card-icon}
+
 ### STEM outreach
+
 K–12 and community-college programs that introduce students to AI, computation, and the biological sciences.
 :::
 
 ::: {.bm-card}
 [📚]{.bm-card-icon}
+
 ### AI literacy
+
 Educational content for non-specialists on what AI is, what it can and cannot do, and how to think critically about AI in society.
 :::
 
 ::: {.bm-card}
 [⚖️]{.bm-card-icon}
+
 ### Responsible AI education
+
 Training and curriculum materials on responsible, fair, and human-centered AI for students, practitioners, and the public.
 :::
 
 ::: {.bm-card}
 [🧬]{.bm-card-icon}
+
 ### BioAI education
+
 Programs that bridge biology and AI for students and researchers entering the field.
 :::
 
