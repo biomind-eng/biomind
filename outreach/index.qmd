@@ -1,0 +1,72 @@
+---
+title: "Outreach"
+subtitle: "Mentoring, workshops, public talks, and AI literacy"
+description: "BioMIND outreach across student mentoring, workshops, public talks, STEM education, AI literacy, and responsible AI education."
+---
+
+BioMIND is committed to building educational and outreach activities around **BioAI**, **AI4Science**, **trustworthy AI**, **human-centered AI**, and **complex systems**. Outreach activities may include student workshops, invited talks, public-facing AI literacy events, mentoring programs, and interdisciplinary research training.
+
+## Areas of engagement
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-card}
+[🎓]{.bm-card-icon}
+### Student mentoring
+Mentoring of undergraduate, master's, and Ph.D. students across the cluster's labs, including independent study, REU placements, and senior design projects.
+:::
+
+::: {.bm-card}
+[🛠️]{.bm-card-icon}
+### Workshops and tutorials
+Hands-on workshops on BioAI, molecular ML, trustworthy AI, and complex-systems methods for students and partner organizations.
+:::
+
+::: {.bm-card}
+[🗣️]{.bm-card-icon}
+### Public talks
+Lectures, panels, and invited talks for academic and public audiences on AI, biology, and intelligent systems.
+:::
+
+::: {.bm-card}
+[🔬]{.bm-card-icon}
+### STEM outreach
+K–12 and community-college programs that introduce students to AI, computation, and the biological sciences.
+:::
+
+::: {.bm-card}
+[📚]{.bm-card-icon}
+### AI literacy
+Educational content for non-specialists on what AI is, what it can and cannot do, and how to think critically about AI in society.
+:::
+
+::: {.bm-card}
+[⚖️]{.bm-card-icon}
+### Responsible AI education
+Training and curriculum materials on responsible, fair, and human-centered AI for students, practitioners, and the public.
+:::
+
+::: {.bm-card}
+[🧬]{.bm-card-icon}
+### BioAI education
+Programs that bridge biology and AI for students and researchers entering the field.
+:::
+
+:::
+
+## Current initiatives
+
+::: {.bm-callout .bm-callout-gold}
+**Outreach activities are being compiled.** As cluster outreach activities are confirmed, they will be listed here with dates, audiences, and lead organizers.
+:::
+
+| Initiative | Audience | Lead | Status |
+|------------|----------|------|--------|
+| *Workshop / talk / program name* | Students / public / K–12 | TBD | Planned |
+| *Workshop / talk / program name* | Students / public / K–12 | TBD | Planned |
+
+## Get involved
+
+- **Educators** — to bring a BioMIND speaker to your classroom or program, please use the [Contact](../contact.qmd) page.
+- **Students** — see the [Faculty](../people/faculty.qmd) and [Research](../research/index.qmd) pages for mentor and project information.
+- **Community partners** — we welcome conversations about workshops, public events, and educational collaboration.

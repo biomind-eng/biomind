@@ -1,0 +1,196 @@
+---
+title: "Publications"
+subtitle: "Selected work from BioMIND faculty and students"
+description: "Selected publications across BioMIND's research in BioAI, molecular machine learning, human-centered AI, complex systems, networks, and learning theory."
+bibliography: publications.bib
+nocite: |
+  @*
+---
+
+This page lists representative publications from BioMIND faculty and students. The full machine-readable record is maintained in [`publications/publications.bib`](publications.bib). Selected publications below highlight the cluster's flagship contributions across BioAI, molecular ML, human-centered AI, complex systems, and learning theory.
+
+::: {.bm-callout .bm-callout-gold}
+**Updating publications.** Add or edit BibTeX records in `publications/publications.bib` and re-render the site. Group entries by adding `keywords:` tags such as `selected`, `recent`, `preprint`, `workshop`, `software`, and one of `bioai`, `molecular-ml`, `human-centered-ai`, `complex-systems`, `learning-theory`. The full reference list renders automatically at the bottom of this page.
+:::
+
+## Selected Publications
+
+::: {.bm-pub-card}
+[[Six Human-Centered Artificial Intelligence Grand Challenges.](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2153320)]{.bm-pub-title}
+
+[Ozmen Garibay, O. *et al.*]{.bm-pub-authors}
+
+[*International Journal of Human-Computer Interaction* · 2023]{.bm-pub-venue}
+
+A major international collaboration identifying grand challenges for creating AI technologies that are ethical, fair, human-centered, and beneficial to society.
+
+::: {.bm-pub-tags}
+[Human-Centered AI]{.bm-pub-tag} [Responsible AI]{.bm-pub-tag}
+:::
+
+*See also: [HCI International 2023 — Six Human-Centered AI Grand Challenges](https://2023.hci.international/Six-Human-Centered-Artificial-Intelligence-Grand-Challenges.html).*
+:::
+
+::: {.bm-pub-card}
+[[AttentionSiteDTI: An Interpretable Graph-Based Model for Drug-Target Interaction Prediction Using NLP Sentence-Level Relation Classification.](https://academic.oup.com/bib/article/23/4/bbac272/6640006)]{.bm-pub-title}
+
+[Yazdani-Jahromi, M.; Yousefi, N.; Tayebi, A.; Ozmen Garibay, O.; Seal, S.; Kolanthai, E.; Neal, C. J.]{.bm-pub-authors}
+
+[*Briefings in Bioinformatics* · 2022]{.bm-pub-venue}
+
+An interpretable graph-based deep learning model for drug-target interaction prediction that uses protein binding sites and self-attention, inspired by NLP sentence classification.
+
+::: {.bm-pub-tags}
+[BioAI]{.bm-pub-tag} [Molecular ML]{.bm-pub-tag} [Drug Discovery]{.bm-pub-tag}
+:::
+
+*Code: <https://github.com/yazdanimehdi/AttentionSiteDTI>*
+:::
+
+::: {.bm-pub-card}
+[[UnbiasedDTI: Mitigating Real-World Bias of Drug-Target Interaction Prediction by Using Deep Ensemble-Balanced Learning.](https://www.mdpi.com/1420-3049/27/9/2980)]{.bm-pub-title}
+
+[Tayebi, A.; Yousefi, N.; Yazdani-Jahromi, M.; Kolanthai, E.; Neal, C. J.; Seal, S.; Ozmen Garibay, O.]{.bm-pub-authors}
+
+[*Molecules* · 2022]{.bm-pub-venue}
+
+A deep ensemble learning framework for drug-target interaction prediction designed to mitigate class imbalance and reduce bias in DTI datasets.
+
+::: {.bm-pub-tags}
+[BioAI]{.bm-pub-tag} [Drug Discovery]{.bm-pub-tag} [Responsible AI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[[BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation.](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf137/8159881)]{.bm-pub-title}
+
+[Khodabandeh Yalabadi, A.; Yazdani-Jahromi, M.; Ozmen Garibay, O.]{.bm-pub-authors}
+
+[*Bioinformatics Advances* · 2025]{.bm-pub-venue}
+
+A diffusion-based framework for target-specific 3D molecule generation combining multi-objective optimization, Best-of-K alignment, and Best-of-N sampling for structure-based drug design.
+
+::: {.bm-pub-tags}
+[Molecular Generation]{.bm-pub-tag} [Diffusion Models]{.bm-pub-tag} [Drug Discovery]{.bm-pub-tag}
+:::
+
+*Preprint: <https://arxiv.org/abs/2501.15631> · Code: <https://github.com/khodabandeh-ali/BoKDiff.git>*
+:::
+
+::: {.bm-pub-card}
+[[Local Rademacher Complexity-Based Learning Guarantees for Multi-Task Learning.](https://jmlr.org/papers/v19/17-144.html)]{.bm-pub-title}
+
+[Yousefi, N.; Lei, Y.; Kloft, M.; Mollaghasemi, M.; Anagnostopoulos, G.]{.bm-pub-authors}
+
+[*Journal of Machine Learning Research* · 2018]{.bm-pub-venue}
+
+A theoretical machine learning paper establishing sharp excess risk bounds for multi-task learning using local Rademacher complexity.
+
+::: {.bm-pub-tags}
+[Learning Theory]{.bm-pub-tag} [Multi-Task Learning]{.bm-pub-tag}
+:::
+
+*Preprint: <https://arxiv.org/abs/1602.05916>*
+:::
+
+::: {.bm-pub-card}
+[[BindingSite-AugmentedDTA: Enabling a Next-Generation Pipeline for Interpretable Prediction Models in Drug Repurposing.](https://academic.oup.com/bib/article/24/3/bbad136/7140297)]{.bm-pub-title}
+
+[Includes Yousefi, N. and coauthors.]{.bm-pub-authors}
+
+[*Briefings in Bioinformatics* · 2023]{.bm-pub-venue}
+
+A drug-target affinity and drug-repurposing study focused on binding-site-augmented modeling and interpretable AI-enabled drug discovery.
+
+::: {.bm-pub-tags}
+[BioAI]{.bm-pub-tag} [Drug Repurposing]{.bm-pub-tag} [Interpretable AI]{.bm-pub-tag}
+:::
+
+<!-- TODO(faculty-approval): Verify the full author list for BindingSite-AugmentedDTA before public launch. -->
+:::
+
+::: {.bm-pub-card}
+[Future Directions and Applications of Artificial Intelligence.]{.bm-pub-title}
+
+[Garibay, I.; Barham, C.; Abdidizaji, S.; Jayalath, C.]{.bm-pub-authors}
+
+[*Advances in Artificial Intelligence Applications* · 2025]{.bm-pub-venue}
+
+A chapter on future directions and applications of artificial intelligence.
+
+::: {.bm-pub-tags}
+[Artificial Intelligence]{.bm-pub-tag} [Complex Systems]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-callout}
+**Note on Dr. Garibay's publications.** Dr. Ivan Garibay's CV contains a large publication list spanning AI, complex systems, network science, and information dynamics. Selected publications to be updated after faculty review.
+:::
+
+## BioAI & Molecular Machine Learning
+
+Flagship outputs from MoML and AI-AIR include:
+
+- **AttentionSiteDTI** — *Briefings in Bioinformatics*, 2022
+- **UnbiasedDTI** — *Molecules*, 2022
+- **BindingSite-AugmentedDTA** — *Briefings in Bioinformatics*, 2023
+- **BoKDiff** — *Bioinformatics Advances*, 2025
+
+See the *Selected Publications* section above for full citations and links.
+
+## Human-Centered and Trustworthy AI
+
+- **Six Human-Centered AI Grand Challenges** — *International Journal of Human-Computer Interaction*, 2023
+
+Additional human-centered and trustworthy AI publications to be added by Human-CAIR.
+
+## Complex Systems, Networks, and Information Dynamics
+
+- **Future Directions and Applications of Artificial Intelligence** — *Advances in Artificial Intelligence Applications*, 2025 (Garibay, I. *et al.*)
+
+::: {.bm-callout}
+**Selected complex systems, network science, and information dynamics publications to be updated after faculty review.**
+:::
+
+## Learning Theory and Machine Learning
+
+- **Local Rademacher Complexity-Based Learning Guarantees for Multi-Task Learning** — *Journal of Machine Learning Research*, 2018
+
+## Software and Datasets
+
+::: {.bm-pub-card}
+[AttentionSiteDTI — code release.]{.bm-pub-title}
+
+[Yazdani-Jahromi, M. *et al.*]{.bm-pub-authors}
+
+[GitHub · <https://github.com/yazdanimehdi/AttentionSiteDTI>]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Software]{.bm-pub-tag} [Open Source]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[BoKDiff — code release.]{.bm-pub-title}
+
+[Khodabandeh Yalabadi, A. *et al.*]{.bm-pub-authors}
+
+[GitHub · <https://github.com/khodabandeh-ali/BoKDiff.git>]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Software]{.bm-pub-tag} [Open Source]{.bm-pub-tag}
+:::
+:::
+
+## Publications to be updated after faculty review
+
+::: {.bm-callout .bm-callout-gold}
+Additional selected publications, preprints, workshop papers, and software releases will be added once individual faculty review their lists. The list above reflects the BioMIND beta publication selection only and is not intended to be exhaustive.
+:::
+
+## Full reference list
+
+The references below are rendered automatically from `publications/publications.bib`.
+
+::: {#refs}
+:::

@@ -1,0 +1,22 @@
+---
+title: "News"
+subtitle: "Announcements, milestones, and updates from BioMIND"
+description: "Latest news from the BioMIND research cluster at UCF."
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  feed: true
+  fields: [date, title, description, categories]
+  sort-ui: false
+  filter-ui: true
+  page-size: 20
+page-layout: full
+---
+
+The news feed tracks BioMIND announcements, paper releases, talks, and other milestones across the cluster's labs.
+
+::: {.bm-callout}
+**Adding a news post.** Create a new `.qmd` file in `news/posts/`, name it `YYYY-MM-short-slug.qmd`, and include front matter with `title`, `date`, `description`, and optional `categories`. See the existing posts for the format. The listing on this page updates automatically.
+:::

@@ -1,0 +1,94 @@
+---
+title: "CASL — Complex Adaptive Systems Laboratory"
+subtitle: "Director: Ivan I. Garibay · University of Central Florida"
+description: "CASL studies AI, complex systems, network science, agent-based modeling, information dynamics, cognitive cybersecurity, and foundation models for large-scale adaptive systems."
+---
+
+## About CASL
+
+The **Complex Adaptive Systems Laboratory**, directed by Dr. Ivan I. Garibay, studies **artificial intelligence**, **complex systems**, **network science**, **computational social science**, **agent-based modeling**, **information diffusion**, **misinformation dynamics**, **cognitive cybersecurity**, **innovation ecosystems**, and **large-scale adaptive systems**. CASL develops computational models and data-driven methods for understanding how behavior, information, influence, intelligence, and adaptation emerge across complex systems.
+
+**Lab website:** <https://complexity.cecs.ucf.edu>
+
+## Director
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Ivan I. Garibay](../assets/people/ivan-garibay.jpeg)
+:::
+### Ivan I. Garibay
+[Professor, IEMS · UCF]{.bm-person-role}
+[Director, CASL]{.bm-person-affil}
+
+Research in AI, complex adaptive systems, network science, foundation models, large language models, information diffusion, computational social science, and multi-agent systems.
+
+::: {.bm-person-links}
+[Profile](../people/faculty.qmd#ivan-i-garibay)
+[Email](mailto:Ivan.Garibay@ucf.edu)
+[Website](https://www.cs.ucf.edu/~garibay/)
+[Lab site](https://complexity.cecs.ucf.edu)
+:::
+:::
+
+## Connection to BioMIND
+
+Within BioMIND, CASL contributes expertise in **network science**, **complex systems**, **information dynamics**, **agent-based modeling**, **AI explainability**, **foundation models**, **large language models**, and **agentic AI systems**.
+
+## Research themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Complex adaptive systems
+Emergence, adaptation, and modularity across biological and social systems.
+:::
+
+::: {.bm-card}
+### Network science
+Structure and dynamics of large-scale, multilayer, and temporal networks.
+:::
+
+::: {.bm-card}
+### Information diffusion
+Cascades, narratives, and signal propagation in cyber-social systems.
+:::
+
+::: {.bm-card}
+### Misinformation dynamics
+Detection, characterization, and modeling of misinformation operations.
+:::
+
+::: {.bm-card}
+### Agent-based modeling
+Simulation of heterogeneous agents and their interactions at scale.
+:::
+
+::: {.bm-card}
+### Computational social science
+Data-driven and simulation-based study of human collective behavior.
+:::
+
+::: {.bm-card}
+### Cognitive cybersecurity
+The cognitive and social dimensions of cybersecurity in networked systems.
+:::
+
+::: {.bm-card}
+### Foundation models and LLMs
+Adaptation, evaluation, and application of foundation models and large language models.
+:::
+
+::: {.bm-card}
+### AI for large-scale adaptive systems
+Methods that bridge AI and complex-systems modeling for societal and scientific applications.
+:::
+
+:::
+
+## People
+
+CASL members are listed centrally on the BioMIND [People](../people/index.qmd) page.
+
+## Publications and news
+
+See the [Publications](../publications/index.qmd) and [News](../news/index.qmd) pages for CASL contributions to the BioMIND record.

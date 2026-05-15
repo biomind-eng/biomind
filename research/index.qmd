@@ -1,0 +1,75 @@
+---
+title: "Research"
+subtitle: "BioAI, molecular intelligence, networks, and the science of trustworthy AI"
+description: "BioMIND research thrusts spanning BioAI, molecular ML, foundation models, complex systems, trustworthy AI, and agentic AI for science."
+---
+
+BioMIND organizes its research around **BioAI**, **molecular intelligence**, **biological foundation models**, **network science**, **complex adaptive systems**, **trustworthy AI**, **human-centered AI**, and **agentic AI for scientific discovery**. The cluster is BioAI-first while maintaining strong foundations in complex systems, explainability, information dynamics, and responsible intelligent systems.
+
+The portfolio is approximately **70% BioAI / AI for biology** and **30% complex systems, networks, and trustworthy AI** — a balance that allows methodological advances and biological applications to inform each other.
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-card .bm-pillar}
+[🧬]{.bm-card-icon}
+### BioAI & AI for Biology
+Foundational ML and computational tools for biological data — sequences, structures, networks, and dynamics — to accelerate discovery.
+
+[Explore →](bioai.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[⚛️]{.bm-card-icon}
+### Molecular Machine Learning & Generative Discovery
+Geometric and generative models for molecular property prediction and de novo design.
+
+[Explore →](molecular-ml.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🔬]{.bm-card-icon}
+### Biomolecular Foundation Models
+Pretraining and adaptation of large-scale models for proteins, mRNA, and multimodal biomolecular data.
+
+[Explore →](foundation-models.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🌐]{.bm-card-icon}
+### Network Science & Complex Adaptive Systems
+Collective dynamics, information flows, and emergent behavior in biological, social, and cyber-social systems.
+
+[Explore →](complex-systems.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🧠]{.bm-card-icon}
+### Explainable, Trustworthy & Human-Centered AI
+Interpretability, fairness, accountability, and human-aligned design in high-stakes AI.
+
+[Explore →](trustworthy-ai.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🤖]{.bm-card-icon}
+### Agentic AI for Scientific Discovery
+LLM-driven and multi-agent systems that plan, hypothesize, and iterate with humans in scientific workflows.
+
+[Explore →](agentic-ai.qmd){.bm-card-link}
+:::
+
+:::
+
+## Cross-Cutting Themes
+
+Across the six thrusts, the cluster emphasizes a set of cross-cutting themes:
+
+- **Foundation models** — pretraining, adaptation, and evaluation across biological and scientific data
+- **Generative modeling** — diffusion, flow matching, and autoregressive design across modalities
+- **Reasoning and agents** — combining LLMs, tools, and structured knowledge for scientific reasoning
+- **Trustworthiness** — interpretability, robustness, fairness, and human alignment
+- **Systems thinking** — networks, dynamics, and emergence at biological and social scales
+
+## How research is conducted
+
+BioMIND projects typically involve co-advised students, shared compute infrastructure, and tight coupling between method development and scientific application. We publish in venues spanning machine learning (NeurIPS, ICML, ICLR), computational biology (RECOMB, ISMB, *Nature Computational Science*), network science (NetSci, *Nature Communications*), and human-centered AI (CHI, FAccT).

@@ -1,0 +1,89 @@
+---
+title: "MoML — Molecular Machine Learning"
+subtitle: "Lead: Ozlem Ozmen Garibay · University of Central Florida"
+description: "MoML focuses on molecular machine learning, drug-target interaction prediction, molecular generation, diffusion models, and AI-assisted biological discovery."
+---
+
+## About MoML
+
+**MoML** focuses on **molecular machine learning**, **interpretable models for drug discovery**, **drug-target interaction prediction**, **molecular generation**, **diffusion models**, and **AI-assisted biological discovery**. The group connects machine learning, NLP-inspired modeling, graph-based molecular learning, and explainable AI to support computational drug discovery and BioAI research.
+
+## Lead
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Ozlem Ozmen Garibay](../assets/people/ozlem-garibay.jpeg)
+:::
+### Ozlem Ozmen Garibay
+[Assistant Professor, IEMS · UCF]{.bm-person-role}
+[Lead, MoML · Director, Human-CAIR]{.bm-person-affil}
+
+Research in molecular machine learning, BioAI, generative discovery, interpretable molecular AI, and AI-assisted drug discovery.
+
+::: {.bm-person-links}
+[Profile](../people/faculty.qmd#ozlem-ozmen-garibay)
+[Email](mailto:ozlem@ucf.edu)
+[UCF profile](https://www.cecs.ucf.edu/faculty/ozlem-ozmen-garibay/)
+[Scholar](https://scholar.google.com/citations?user=0RKzNtIAAAAJ&hl=en)
+:::
+:::
+
+## Connection to BioMIND
+
+Within BioMIND, MoML anchors **molecular intelligence**, **drug discovery**, **interpretable molecular AI**, and **generative discovery**.
+
+## Research themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Molecular machine learning
+Graph-based, geometric, and equivariant models for molecules.
+:::
+
+::: {.bm-card}
+### Drug-target interaction prediction
+Interpretable, attention-based, and NLP-inspired DTI models.
+:::
+
+::: {.bm-card}
+### AI-assisted drug discovery
+End-to-end pipelines combining prediction, generation, and prioritization.
+:::
+
+::: {.bm-card}
+### Graph-based molecular learning
+Message passing and structure-aware networks for property prediction and design.
+:::
+
+::: {.bm-card}
+### Molecular generation
+Diffusion, autoregressive, and goal-conditioned generative models.
+:::
+
+::: {.bm-card}
+### Diffusion models
+Structure-conditioned diffusion, Best-of-K alignment, and Best-of-N sampling.
+:::
+
+::: {.bm-card}
+### Interpretable BioAI
+Attribution, attention, and concept-based explanations for biomolecular models.
+:::
+
+:::
+
+## Flagship outputs
+
+- [**AttentionSiteDTI**](../publications/index.qmd) — interpretable graph-based DTI prediction (*Briefings in Bioinformatics*, 2022)
+- [**UnbiasedDTI**](../publications/index.qmd) — bias-aware DTI with ensemble-balanced learning (*Molecules*, 2022)
+- [**BoKDiff**](../publications/index.qmd) — Best-of-K diffusion alignment for 3D molecule generation (*Bioinformatics Advances*, 2025)
+- [**BindingSite-AugmentedDTA**](../publications/index.qmd) — interpretable drug repurposing pipeline (*Briefings in Bioinformatics*, 2023)
+
+## People
+
+MoML members are listed centrally on the BioMIND [People](../people/index.qmd) page.
+
+## Publications and news
+
+See the [Publications](../publications/index.qmd) and [News](../news/index.qmd) pages for MoML contributions.

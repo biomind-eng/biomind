@@ -1,0 +1,93 @@
+---
+title: "About BioMIND"
+subtitle: "An interdisciplinary research cluster at the University of Central Florida"
+description: "BioMIND unites UCF labs working across BioAI, molecular intelligence, networks, complex adaptive systems, trustworthy AI, and agentic AI for scientific discovery."
+---
+
+## What BioMIND is
+
+**BioMIND** — *BioAI, Molecular Intelligence, Networks, and Discovery* — is an interdisciplinary research cluster at the University of Central Florida. The cluster connects expertise in **AI for biology**, **molecular machine learning**, **biological foundation models**, **network science**, **complex adaptive systems**, **trustworthy AI**, **human-centered AI**, and **agentic AI systems**.
+
+## Mission
+
+To develop intelligent, explainable, and scientifically grounded AI systems that accelerate biological discovery and improve understanding of complex adaptive systems.
+
+## Vision
+
+BioMIND aims to become a collaborative hub for **BioAI and AI4Science research** at UCF, connecting biological discovery with responsible AI, network science, molecular intelligence, and human-centered systems.
+
+## Research identity
+
+BioMIND's research portfolio is approximately:
+
+- **70%** BioAI / AI for Biology / AI4Science for biology
+- **30%** complex systems, network science, explainable AI, trustworthy AI, agentic AI, human-centered AI, social and cyber systems, and information dynamics
+
+This balance reflects a deliberate orientation toward biological discovery while preserving the cluster's broader strengths in the science of intelligent systems.
+
+## What makes BioMIND distinctive
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### BioAI-first research identity
+A cluster organized around AI for biology, with deep methodological investment in foundation models, generative models, and trustworthy intelligent systems.
+:::
+
+::: {.bm-card}
+### Molecular ML and drug discovery
+Active research on molecular machine learning, drug-target interaction prediction, molecular generation, diffusion models, and AI-assisted therapeutic design.
+:::
+
+::: {.bm-card}
+### Biological foundation models
+Foundation models for biological and scientific data, including mRNA, biological sequences, omics, and scientific representation learning.
+:::
+
+::: {.bm-card}
+### Complex systems and network science
+Network-based and agent-based modeling of biological, social, cyber, and adaptive systems, with emphasis on emergence, diffusion, and collective dynamics.
+:::
+
+::: {.bm-card}
+### Human-centered, trustworthy, explainable AI
+Methods for responsible, fair, interpretable AI systems that support scientific and societal decision-making.
+:::
+
+::: {.bm-card}
+### Applied AI for biomedical and societal challenges
+Direct connection between methodological work and real biomedical, scientific, and societal applications.
+:::
+
+::: {.bm-card}
+### Interdisciplinary collaboration
+Federated work across [CASL](labs/casl.qmd), [Human-CAIR](labs/human-cair.qmd), [MoML](labs/moml.qmd), and [AI-AIR](labs/aiair.qmd).
+:::
+
+::: {.bm-card}
+### Open scholarship and student-centered training
+Preprints, open-source code, reproducible artifacts, and strong mentorship across undergraduate, master's, and doctoral researchers.
+:::
+
+:::
+
+## Member labs
+
+BioMIND federates four UCF labs:
+
+- **Complex Adaptive Systems Laboratory ([CASL](labs/casl.qmd))** — *Ivan I. Garibay*
+- **Human-Centered AI Research Lab ([Human-CAIR](labs/human-cair.qmd))** — *Ozlem Ozmen Garibay*
+- **Molecular Machine Learning ([MoML](labs/moml.qmd))** — *Ozlem Ozmen Garibay*
+- **Applied Innovative AI Research Lab ([AI-AIR](labs/aiair.qmd))** — *Niloofar Yousefi*
+
+See the [Labs](labs/index.qmd) page for full descriptions.
+
+::: {.bm-callout .bm-callout-gold}
+**Beta site notice.** This site is in beta. Official UCF branding will be added after the relevant approvals are in place. Faculty and student profiles, funding listings, and collaborator listings are being collected and will be reviewed before public release.
+:::
+
+## Get involved
+
+- **Prospective students** — see the [Faculty](people/faculty.qmd) and [Research](research/index.qmd) pages, then [contact](contact.qmd) a faculty member directly.
+- **Collaborators** — reach out via the [Contact](contact.qmd) page.
+- **Seminar speakers** — see [Seminars](seminars/index.qmd) for the current series.

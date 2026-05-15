@@ -1,0 +1,73 @@
+---
+title: "Explainable, Trustworthy & Human-Centered AI"
+subtitle: "Responsible, fair, interpretable AI for scientific and societal decision-making"
+description: "BioMIND research on explainable AI, responsible AI, fairness, human-centered AI, trustworthy BioAI, and human-machine teams."
+---
+
+## Overview
+
+BioMIND develops **responsible and interpretable AI systems** that support scientific discovery and human decision-making. This area includes **explainable AI**, **fairness**, **human-centered AI**, **responsible AI**, **cognitive compatibility**, **bias mitigation**, and **trustworthy AI for biological and social systems**.
+
+## Key themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Explainable AI
+Mechanistic interpretability, attribution, concept-based explanations, and faithfulness.
+:::
+
+::: {.bm-card}
+### Responsible AI
+Ethics, governance, and societal-impact analysis for AI in scientific and societal contexts.
+:::
+
+::: {.bm-card}
+### Fairness and bias mitigation
+Audit methodologies, fairness metrics, and bias-aware learning across high-stakes domains.
+:::
+
+::: {.bm-card}
+### Human-centered AI
+AI systems designed around human needs, abilities, and values.
+:::
+
+::: {.bm-card}
+### Human-machine teams
+Mixed-initiative interfaces, shared authority, and collaborative AI for expert workflows.
+:::
+
+::: {.bm-card}
+### Trustworthy BioAI
+Calibrated, interpretable, and human-aligned AI for biological discovery.
+:::
+
+::: {.bm-card}
+### Interpretable molecular ML
+Explanations and probes for molecular generative and predictive models.
+:::
+
+::: {.bm-card}
+### Social cybersecurity
+The interplay of AI, networks, and adversarial information dynamics.
+:::
+
+:::
+
+## Flagship contribution
+
+::: {.bm-callout}
+**[Six Human-Centered Artificial Intelligence Grand Challenges](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2153320).** Ozmen Garibay *et al.*, *International Journal of Human-Computer Interaction*, 2023.
+
+A major international collaboration identifying grand challenges for creating AI technologies that are ethical, fair, human-centered, and beneficial to society.
+:::
+
+## Related faculty
+
+- [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — Human-CAIR
+- [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL (AI explainability and information dynamics)
+- [Niloofar Yousefi](../people/faculty.qmd#niloofar-yousefi) — AI-AIR
+
+## Representative publications
+
+See the [Publications](../publications/index.qmd) page, under *Selected Publications* and *Human-Centered and Trustworthy AI*.

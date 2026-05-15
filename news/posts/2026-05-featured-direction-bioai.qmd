@@ -1,0 +1,19 @@
+---
+title: "Featured research direction: BioAI and molecular intelligence"
+description: "BioMIND's current research direction emphasizes AI for biology, molecular machine learning, biological foundation models, diffusion models, and AI-guided discovery."
+date: "2026-05-05"
+categories: [research, bioai, molecular-ml]
+author: "BioMIND"
+---
+
+BioMIND's **current research direction** emphasizes:
+
+- **AI for biology** — machine learning, foundation models, and intelligent systems for biological data
+- **Molecular machine learning** — interpretable graph-based models, structure-based design, and drug discovery
+- **Biological foundation models** — pretraining and adaptation for mRNA, proteins, omics, and scientific data
+- **Diffusion models** — structure-conditioned generation for target-specific molecule design
+- **AI-guided discovery** — agentic and human-in-the-loop systems for biological reasoning
+
+This direction is reflected in flagship outputs from MoML and AI-AIR — *AttentionSiteDTI*, *UnbiasedDTI*, *BindingSite-AugmentedDTA*, and *BoKDiff* — and in joint work with CASL on foundation models and information dynamics, and Human-CAIR on trustworthy and human-centered AI.
+
+See the [Research](../../research/index.qmd) and [Publications](../../publications/index.qmd) pages for current work.

@@ -1,0 +1,97 @@
+---
+title: "AI-AIR — Applied Innovative AI Research Lab"
+subtitle: "Director: Niloofar Yousefi · University of Central Florida"
+description: "AI-AIR develops AI and machine learning methods for scientific and biomedical applications: drug discovery, bioinformatics, generative AI for science, and AI-guided nanomedicine."
+---
+
+## About AI-AIR
+
+The **Applied Innovative Artificial Intelligence Research Lab**, **AI-AIR**, directed by Dr. Niloofar Yousefi, develops **artificial intelligence and machine learning methods for high-impact scientific and societal applications**. The lab's research spans AI/ML, drug discovery, bioinformatics, computational social science, human-centered AI, generative AI for science, and AI-guided nanomedicine.
+
+## Director
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Niloofar Yousefi](../assets/people/niloofar-yousefi.jpeg)
+:::
+### Niloofar Yousefi
+[Assistant Professor, IEMS · UCF]{.bm-person-role}
+[Director, AI-AIR]{.bm-person-affil}
+
+Research in machine learning, AI, statistical learning theory, bioinformatics, drug discovery, generative AI for science, AI-guided nanomedicine, and agent-based modeling.
+
+::: {.bm-person-links}
+[Profile](../people/faculty.qmd#niloofar-yousefi)
+[Email](mailto:niloofar.yousefi@ucf.edu)
+[UCF profile](https://www.cecs.ucf.edu/faculty/niloofar-yousefi/)
+[Scholar](https://scholar.google.com/citations?user=DsciMcMAAAAJ&hl=en)
+:::
+:::
+
+## Connection to BioMIND
+
+Within BioMIND, AI-AIR contributes **applied machine learning and biomedical AI expertise** for accelerating biological discovery, therapeutic innovation, and scientific AI systems.
+
+## Research themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Machine learning
+Algorithmic and statistical foundations, with emphasis on reliable, applicable ML.
+:::
+
+::: {.bm-card}
+### Artificial intelligence
+General AI methods applied to scientific and biomedical problems.
+:::
+
+::: {.bm-card}
+### Bioinformatics
+ML and statistical methods for genomic, proteomic, and biomedical data.
+:::
+
+::: {.bm-card}
+### AI-guided drug discovery
+Predictive, generative, and prioritization methods for therapeutic design.
+:::
+
+::: {.bm-card}
+### AI-guided nanomedicine
+AI methods for the design and evaluation of nanomedicines.
+:::
+
+::: {.bm-card}
+### Generative AI for science
+LLM and diffusion-based generation for hypothesis generation and design.
+:::
+
+::: {.bm-card}
+### Statistical learning theory
+Theoretical guarantees and complexity-based bounds for modern ML.
+:::
+
+::: {.bm-card}
+### Agent-based modeling
+Simulation of heterogeneous agents in social and biological systems.
+:::
+
+::: {.bm-card}
+### Human-centered AI
+Cross-thrust collaboration with Human-CAIR on responsible AI.
+:::
+
+::: {.bm-card}
+### Computational social science
+Data-driven and simulation-based study of collective behavior.
+:::
+
+:::
+
+## People
+
+AI-AIR members are listed centrally on the BioMIND [People](../people/index.qmd) page.
+
+## Publications and news
+
+See the [Publications](../publications/index.qmd) and [News](../news/index.qmd) pages for AI-AIR contributions.

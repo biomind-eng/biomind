@@ -1,0 +1,92 @@
+---
+title: "Seminars"
+subtitle: "Speaker series, reading groups, and invited talks"
+description: "BioMIND seminars and reading groups across BioAI, molecular ML, AI4Science, complex systems, and trustworthy AI."
+---
+
+The **BioMIND seminar series** will feature speakers working across BioAI, molecular machine learning, AI4Science, complex systems, network science, trustworthy AI, and human-centered AI.
+
+## Upcoming Seminars
+
+::: {.bm-callout .bm-callout-gold}
+**Schedule in progress.** The seminar series schedule for the next term is being finalized. Speaker confirmations, dates, and locations will be posted here as they become available.
+:::
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+[Date — TBD]{.bm-card-link}
+### BioMIND Seminar Series — Speaker To Be Announced
+**Speaker · Affiliation**
+
+*Abstract to be announced.*
+
+**Fields:** Speaker · affiliation · date · abstract · bio · location · contact
+:::
+
+::: {.bm-card}
+[Date — TBD]{.bm-card-link}
+### BioMIND Seminar Series — Speaker To Be Announced
+**Speaker · Affiliation**
+
+*Abstract to be announced.*
+:::
+
+:::
+
+## Past Seminars
+
+See the [Past seminars](past.qmd) archive. The series will be seeded with prior talks hosted by CASL, Human-CAIR, MoML, and AI-AIR as records are confirmed.
+
+## Reading Groups
+
+BioMIND hosts regular reading groups for students and faculty. Topics rotate with the cluster's active research interests.
+
+| Group | Focus | Cadence | Coordinator |
+|-------|-------|---------|-------------|
+| BioAI Reading Group | Foundation models, BioAI papers | Weekly *(planned)* | TBD |
+| Trustworthy ML Reading Group | Interpretability, fairness, evaluation | Biweekly *(planned)* | TBD |
+| Networks & Complex Systems | Recent papers in network science | Biweekly *(planned)* | TBD |
+| Agentic AI Reading Group | LLM agents, scientific reasoning | Weekly *(planned)* | TBD |
+
+## BioMIND Speaker Series
+
+The Speaker Series is organized around the cluster's six research thrusts:
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-card}
+### BioAI
+Talks on AI for biology, foundation models, and biological discovery.
+:::
+
+::: {.bm-card}
+### Molecular ML
+Talks on geometric deep learning, generative molecular design, and property prediction.
+:::
+
+::: {.bm-card}
+### Trustworthy & Human-Centered AI
+Talks on interpretability, fairness, and human-AI interaction.
+:::
+
+::: {.bm-card}
+### Complex Systems & Networks
+Talks on network science, dynamics, and computational social science.
+:::
+
+::: {.bm-card}
+### Agentic AI for Science
+Talks on LLM agents, multi-agent systems, and human-AI scientific collaboration.
+:::
+
+::: {.bm-card}
+### Cross-Thrust Panels
+Periodic panel discussions on themes that span multiple cluster thrusts.
+:::
+
+:::
+
+## Proposing a speaker
+
+To propose a speaker to the BioMIND series, please contact the cluster coordinator via the [Contact](../contact.qmd) page with the proposed name, affiliation, topic area, and tentative dates.

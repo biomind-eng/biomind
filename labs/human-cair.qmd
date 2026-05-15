@@ -1,0 +1,87 @@
+---
+title: "Human-CAIR — Human-Centered AI Research Lab"
+subtitle: "Director: Ozlem Ozmen Garibay · University of Central Florida"
+description: "Human-CAIR develops fair, explainable, responsible AI systems aligned with human needs, spanning fairness, human-machine teams, social cybersecurity, and trustworthy BioAI."
+---
+
+## About Human-CAIR
+
+The **Human-Centered Artificial Intelligence Research Lab**, directed by Dr. Ozlem Ozmen Garibay, develops AI systems that are **fair, explainable, responsible, and aligned with human needs**. The lab's research spans algorithmic fairness, explainable machine learning, human-machine teams, social cybersecurity, artificial social intelligence, network science, and complex systems.
+
+## Director
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Ozlem Ozmen Garibay](../assets/people/ozlem-garibay.jpeg)
+:::
+### Ozlem Ozmen Garibay
+[Assistant Professor, IEMS · UCF]{.bm-person-role}
+[Director, Human-CAIR · MoML]{.bm-person-affil}
+
+Research in human-centered AI, responsible AI, explainable AI, fairness, molecular machine learning, BioAI, and human-AI systems.
+
+::: {.bm-person-links}
+[Profile](../people/faculty.qmd#ozlem-ozmen-garibay)
+[Email](mailto:ozlem@ucf.edu)
+[UCF profile](https://www.cecs.ucf.edu/faculty/ozlem-ozmen-garibay/)
+[Scholar](https://scholar.google.com/citations?user=0RKzNtIAAAAJ&hl=en)
+:::
+:::
+
+## Connection to BioMIND
+
+Within BioMIND, Human-CAIR contributes the **human-centered and trustworthy AI foundation** for biological discovery, molecular intelligence, and responsible AI4Science. The lab's work helps ensure that BioAI systems are not only powerful, but also interpretable, fair, and useful to scientists and society.
+
+## Research themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Human-centered AI
+AI systems designed around human needs, abilities, and values.
+:::
+
+::: {.bm-card}
+### Responsible AI
+Ethics, governance, and societal-impact analysis of AI systems.
+:::
+
+::: {.bm-card}
+### Explainable AI
+Faithful, useful explanations for modern neural and foundation models.
+:::
+
+::: {.bm-card}
+### Fairness in AI
+Algorithmic fairness, bias mitigation, and audit methodologies.
+:::
+
+::: {.bm-card}
+### Human-machine teams
+Mixed-initiative interfaces and shared authority in expert workflows.
+:::
+
+::: {.bm-card}
+### Social cybersecurity
+Coupled dynamics of AI, networks, and adversarial information environments.
+:::
+
+::: {.bm-card}
+### Trustworthy BioAI
+Interpretable, calibrated, and human-aligned AI for biology and biomedicine.
+:::
+
+::: {.bm-card}
+### Interpretable machine learning
+Probing, attribution, and concept-based explanation methods.
+:::
+
+:::
+
+## People
+
+Human-CAIR members are listed centrally on the BioMIND [People](../people/index.qmd) page.
+
+## Publications and news
+
+See the [Publications](../publications/index.qmd) and [News](../news/index.qmd) pages for Human-CAIR contributions to the BioMIND record.

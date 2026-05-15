@@ -1,0 +1,23 @@
+---
+title: "Past Seminars"
+subtitle: "Archive of previous BioMIND seminar series talks"
+description: "Past talks in the BioMIND seminar series."
+---
+
+This page archives BioMIND seminar series talks. As the series builds out, talks will be listed here with date, speaker, affiliation, title, and (where available) abstract and recording.
+
+::: {.bm-callout .bm-callout-gold}
+**Archive is being seeded.** Past talks from member labs (CASL, Human-CAIR, MoML, AIAIR) hosted under predecessor names can be added here. Please contact the cluster coordinator with date, speaker, and title.
+:::
+
+## Archive
+
+| Date | Speaker | Affiliation | Title |
+|------|---------|-------------|-------|
+| YYYY-MM-DD | Speaker Name | Affiliation | Talk title (placeholder) |
+| YYYY-MM-DD | Speaker Name | Affiliation | Talk title (placeholder) |
+| YYYY-MM-DD | Speaker Name | Affiliation | Talk title (placeholder) |
+
+## Add an entry
+
+Past talks live in `seminars/past.qmd`. Append a row to the table above, or expand it into a richer block format with abstract and links to slides or recordings.

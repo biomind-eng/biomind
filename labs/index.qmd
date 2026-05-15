@@ -1,0 +1,75 @@
+---
+title: "Labs"
+subtitle: "The four UCF research groups that comprise BioMIND"
+description: "BioMIND is an umbrella research cluster connecting CASL, Human-CAIR, MoML, and AI-AIR at the University of Central Florida."
+---
+
+BioMIND is an **umbrella research cluster** connecting complementary UCF laboratories working across **BioAI**, **molecular intelligence**, **complex adaptive systems**, **trustworthy AI**, **human-centered AI**, and **applied machine learning**.
+
+## Member labs
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-lab-card}
+### CASL — Complex Adaptive Systems Laboratory
+[Director — Ivan I. Garibay]{.bm-lab-pi}
+
+Artificial intelligence, complex adaptive systems, network science, agent-based modeling, information diffusion, misinformation dynamics, cognitive cybersecurity, foundation models, and large language models.
+
+[Visit CASL →](casl.qmd)
+:::
+
+::: {.bm-lab-card}
+### Human-CAIR — Human-Centered AI Research Lab
+[Director — Ozlem Ozmen Garibay]{.bm-lab-pi}
+
+Human-centered, responsible, and explainable AI; fairness and bias mitigation; human-machine teams; social cybersecurity; and trustworthy BioAI.
+
+[Visit Human-CAIR →](human-cair.qmd)
+:::
+
+::: {.bm-lab-card}
+### MoML — Molecular Machine Learning
+[Lead — Ozlem Ozmen Garibay]{.bm-lab-pi}
+
+Molecular machine learning, interpretable models for drug discovery, drug-target interaction prediction, molecular generation, diffusion models, and AI-assisted biological discovery.
+
+[Visit MoML →](moml.qmd)
+:::
+
+::: {.bm-lab-card}
+### AI-AIR — Applied Innovative AI Research Lab
+[Director — Niloofar Yousefi]{.bm-lab-pi}
+
+AI/ML, drug discovery, bioinformatics, computational social science, generative AI for science, AI-guided nanomedicine, and applied AI.
+
+[Visit AI-AIR →](aiair.qmd)
+:::
+
+:::
+
+## How the cluster works
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Shared themes, distinct identities
+Each lab retains its own scientific identity and history. BioMIND provides a unified public face, shared seminars, and joint initiatives across labs.
+:::
+
+::: {.bm-card}
+### Co-advised students
+Students with cross-cutting interests can be co-advised by faculty across the cluster, enabling research that bridges BioAI, trustworthy AI, and complex systems.
+:::
+
+::: {.bm-card}
+### Joint projects and proposals
+Faculty across BioMIND pursue joint grant proposals and collaborative research projects, particularly at the intersection of BioAI and responsible AI.
+:::
+
+::: {.bm-card}
+### External engagement
+A common cluster presence simplifies engagement with funders, industry partners, government, and prospective students.
+:::
+
+:::

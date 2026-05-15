@@ -1,0 +1,71 @@
+---
+title: "Molecular Machine Learning & Generative Discovery"
+subtitle: "AI-guided molecular generation, drug-target interaction, and therapeutic discovery"
+description: "BioMIND research on molecular machine learning, drug-target interaction prediction, molecular generation, diffusion models, and AI-assisted drug discovery."
+---
+
+## Overview
+
+This area focuses on **molecular machine learning**, drug-target interaction prediction, molecular generation, diffusion models, and computational methods for drug discovery and therapeutic design. BioMIND researchers develop **interpretable and generative AI methods** that support virtual screening, molecular design, target-specific molecule generation, and AI-guided biomedical discovery.
+
+## Example themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Drug-target interaction prediction
+Graph-based, attention-based, and NLP-inspired models for predicting compound–protein interactions.
+:::
+
+::: {.bm-card}
+### Molecular representation learning
+Geometric and graph neural networks that respect molecular structure and symmetries.
+:::
+
+::: {.bm-card}
+### Graph-based molecular learning
+Message passing, equivariant networks, and structure-aware models for property prediction and design.
+:::
+
+::: {.bm-card}
+### Structure-based drug design
+AI methods that leverage protein binding-site structure for compound design.
+:::
+
+::: {.bm-card}
+### Diffusion models for molecule generation
+Best-of-K alignment, Best-of-N sampling, and structure-conditioned generation.
+:::
+
+::: {.bm-card}
+### Bias mitigation in biomedical datasets
+Ensemble and balancing methods to mitigate real-world bias in DTI and similar tasks.
+:::
+
+::: {.bm-card}
+### Interpretable molecular AI
+Attribution, attention, and concept-based explanations for molecular predictions.
+:::
+
+::: {.bm-card}
+### AI-assisted drug discovery
+End-to-end pipelines combining prediction, generation, and prioritization.
+:::
+
+:::
+
+## Example projects
+
+- [**AttentionSiteDTI**](../publications/index.qmd) — interpretable graph-based DTI prediction with NLP-style relation classification
+- [**UnbiasedDTI**](../publications/index.qmd) — deep ensemble-balanced learning for bias-aware DTI prediction
+- [**BoKDiff**](../publications/index.qmd) — Best-of-K diffusion alignment for target-specific 3D molecule generation
+- [**BindingSite-AugmentedDTA**](../publications/index.qmd) — binding-site-aware drug repurposing pipeline
+
+## Related faculty
+
+- [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — MoML / Human-CAIR
+- [Niloofar Yousefi](../people/faculty.qmd#niloofar-yousefi) — AI-AIR
+
+## Representative publications
+
+See the [Publications](../publications/index.qmd) page for the full list. Several flagship molecular ML papers are highlighted under *Selected Publications*.

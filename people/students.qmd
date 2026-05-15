@@ -1,0 +1,116 @@
+---
+title: "Students"
+subtitle: "Graduate and undergraduate researchers across BioMIND"
+description: "Ph.D., M.S., and undergraduate researchers contributing to BioMIND's work in BioAI, molecular ML, complex systems, and trustworthy AI."
+---
+
+::: {.bm-callout .bm-callout-gold}
+**Student profiles are being collected.** Each student profile may include program, advisor, lab affiliation, research keywords, short bio, publication links, GitHub, Google Scholar, LinkedIn, ORCID, personal website, and headshot. See the [README](../README.md) for the full content checklist.
+:::
+
+BioMIND students work on problems at the frontier of **BioAI**, **molecular machine learning**, **biological foundation models**, **network science**, **trustworthy AI**, and **agentic AI for scientific discovery**, across the cluster's four labs.
+
+## Ph.D. Students
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+S
+:::
+### Student Name
+[Ph.D. · Year]{.bm-person-role}
+[Advisor: Faculty Name · Lab]{.bm-person-affil}
+
+*Short bio to be updated.*
+
+::: {.bm-tags}
+[BioAI]{.bm-tag} [Molecular ML]{.bm-tag} [Network Science]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[Email](mailto:placeholder@ucf.edu)
+[Scholar](#)
+[GitHub](#)
+[LinkedIn](#)
+[Website](#)
+:::
+:::
+
+:::
+
+## M.S. Students
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+S
+:::
+### Student Name
+[M.S. · Year]{.bm-person-role}
+[Advisor: Faculty Name · Lab]{.bm-person-affil}
+
+*Short bio to be updated.*
+
+::: {.bm-tags}
+[Research Keyword]{.bm-tag} [Research Keyword]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[Email](mailto:placeholder@ucf.edu)
+[Scholar](#)
+[GitHub](#)
+[LinkedIn](#)
+:::
+:::
+
+:::
+
+## Undergraduate Researchers
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+S
+:::
+### Student Name
+[Undergraduate Researcher]{.bm-person-role}
+[Advisor: Faculty Name · Lab]{.bm-person-affil}
+
+*Short bio to be updated.*
+
+::: {.bm-tags}
+[Research Keyword]{.bm-tag} [Research Keyword]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[GitHub](#)
+[LinkedIn](#)
+:::
+:::
+
+:::
+
+## Alumni
+
+See the [Alumni](alumni.qmd) page for former Ph.D., M.S., undergraduate, and postdoctoral researchers and their current positions.
+
+## How to add or update your profile
+
+1. Open `people/students.qmd` in the repository.
+2. Copy one of the `bm-person-card` blocks above into the appropriate section.
+3. Replace the placeholder fields:
+   - **Name** — full name as you'd like it displayed
+   - **Program / Year** — e.g., *Ph.D. Candidate · Year 3*
+   - **Advisor and Lab** — primary advisor and lab affiliation
+   - **Bio** — 1–3 sentences
+   - **Research keywords** — 2–5 tags
+   - **Links** — email, Scholar, GitHub, LinkedIn, ORCID, personal website
+4. (Optional) Drop a square headshot in `assets/people/firstname-lastname.jpeg` and replace the initials placeholder with `![Headshot of Your Name](../assets/people/firstname-lastname.jpeg)` inside the `bm-person-photo` block.
+5. Submit a pull request, or send the snippet to the cluster coordinator.
+
+## Publications
+
+Student publications are listed on the central [Publications](../publications/index.qmd) page. You can also link to your own Google Scholar profile directly from your card.

@@ -1,0 +1,42 @@
+---
+title: "Alumni"
+subtitle: "Former BioMIND researchers"
+description: "Alumni of BioMIND's member labs, now in academia, industry, and government."
+---
+
+BioMIND alumni have moved on to positions in academia, industry, government, and the nonprofit sector. We are proud of their contributions to research at UCF and beyond.
+
+::: {.bm-callout .bm-callout-gold}
+**Alumni records are being compiled.** Former students, postdocs, and visiting researchers are invited to share their current position and a short note. Email the cluster coordinator or open a pull request against `people/alumni.qmd`.
+:::
+
+## PhD Alumni
+
+| Name | Year | Lab | Current Position |
+|------|------|-----|------------------|
+| *Alumna/Alumnus Name* | 20XX | Lab | Position, Organization |
+| *Alumna/Alumnus Name* | 20XX | Lab | Position, Organization |
+
+## Master's Alumni
+
+| Name | Year | Lab | Current Position |
+|------|------|-----|------------------|
+| *Alumna/Alumnus Name* | 20XX | Lab | Position, Organization |
+| *Alumna/Alumnus Name* | 20XX | Lab | Position, Organization |
+
+## Undergraduate Alumni
+
+| Name | Year | Lab | Next Step |
+|------|------|-----|-----------|
+| *Alumna/Alumnus Name* | 20XX | Lab | Graduate program / Position |
+| *Alumna/Alumnus Name* | 20XX | Lab | Graduate program / Position |
+
+## Postdoctoral and Visiting Researchers
+
+| Name | Years | Lab | Current Position |
+|------|-------|-----|------------------|
+| *Researcher Name* | 20XX–20XX | Lab | Position, Organization |
+
+::: {.bm-callout}
+**Editing.** Alumni entries can be added directly to the tables in `people/alumni.qmd`. Categories can be split further (by lab, by year, by sector) as the list grows.
+:::

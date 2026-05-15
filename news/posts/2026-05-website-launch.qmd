@@ -1,0 +1,25 @@
+---
+title: "BioMIND beta website launched"
+description: "The BioMIND beta website is being developed to showcase UCF research at the intersection of BioAI, molecular intelligence, complex systems, and trustworthy AI."
+date: "2026-05-15"
+categories: [announcement, cluster, website]
+author: "BioMIND"
+---
+
+The BioMIND cluster's website is now online in **beta form**. This initial release establishes the cluster's public identity, navigation, and editorial structure ahead of broader content collection.
+
+## What's in this release
+
+- A homepage articulating BioMIND's mission across BioAI, molecular intelligence, networks, and discovery
+- Research pages for each of the six cluster thrusts
+- Lab pages for CASL, Human-CAIR, MoML, and AIAIR
+- Placeholder structures for People, Publications, Seminars, Outreach, Funding, and Collaborators
+- A maintainable Quarto + GitHub Pages infrastructure for ongoing edits
+
+## What's next
+
+- **Content collection.** Faculty and students are invited to submit bios, headshots, publication lists, and project descriptions. See the [README](https://github.com/biomind-eng/biomind) for the full checklist.
+- **UCF branding.** Official UCF branding will be added once the appropriate approvals are in place.
+- **Domain migration.** The site is currently published via GitHub Pages and will be migrated to an official UCF domain at the appropriate stage.
+
+Comments and corrections are welcome — please open an issue on the [GitHub repository](https://github.com/biomind-eng/biomind/issues) or email the cluster coordinator.

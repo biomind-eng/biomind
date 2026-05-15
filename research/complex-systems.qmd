@@ -1,0 +1,70 @@
+---
+title: "Network Science & Complex Adaptive Systems"
+subtitle: "Networks, agents, and dynamics in biological, social, and cyber systems"
+description: "BioMIND research on network science, complex adaptive systems, agent-based modeling, information diffusion, and computational social science."
+---
+
+## Overview
+
+This area studies **biological, social, cyber, organizational, and technological systems as complex adaptive systems**. BioMIND uses network science, agent-based modeling, information theory, social simulation, and AI to model emergence, adaptation, diffusion, influence, and collective dynamics.
+
+## Key themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Complex adaptive systems
+Emergence, adaptation, robustness, and modularity across biological and social systems.
+:::
+
+::: {.bm-card}
+### Network science
+Structure, dynamics, and inference on multilayer and temporal networks at scale.
+:::
+
+::: {.bm-card}
+### Agent-based modeling
+Simulation of heterogeneous agents and their interactions in social and biological systems.
+:::
+
+::: {.bm-card}
+### Information diffusion
+Cascades, narratives, and signal propagation in cyber-social systems.
+:::
+
+::: {.bm-card}
+### Misinformation dynamics
+Detection, characterization, and modeling of misinformation and influence operations.
+:::
+
+::: {.bm-card}
+### Social and cyber systems
+Coupled dynamics of humans, algorithms, and infrastructure.
+:::
+
+::: {.bm-card}
+### Multi-agent systems
+Coordination, debate, and division of labor among autonomous agents.
+:::
+
+::: {.bm-card}
+### Innovation ecosystems
+Network and complex-systems analysis of innovation, collaboration, and knowledge flows.
+:::
+
+::: {.bm-card}
+### Computational social science
+Data-driven and simulation-based study of human collective behavior.
+:::
+
+:::
+
+## Related faculty
+
+- [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL
+- [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — Human-CAIR
+- [Niloofar Yousefi](../people/faculty.qmd#niloofar-yousefi) — AI-AIR
+
+## Representative publications
+
+See the [Publications](../publications/index.qmd) page, under *Complex Systems, Networks, and Information Dynamics*.

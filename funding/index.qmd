@@ -1,0 +1,50 @@
+---
+title: "Funding"
+subtitle: "Research support and acknowledgments"
+description: "BioMIND research has been supported by federal agencies, industry partners, and university initiatives. Specific entries are reviewed before public release."
+---
+
+BioMIND-affiliated faculty have led and contributed to externally funded research supported by **federal agencies, industry partners, and university initiatives**. Specific funding entries will be added after faculty review.
+
+::: {.bm-callout .bm-callout-gold}
+**Faculty review required.** Funding information should be reviewed and approved by the relevant PI before being made public on this page. Award numbers, dollar figures, and sponsor names should be verified against official records.
+:::
+
+<!-- TODO(faculty-approval):
+     Ivan Garibay CV lists funding experience across NSF, DARPA, Disney, Microsoft, and others.
+     Exact grant names, award numbers, and dollar amounts should be approved by each PI before publishing.
+     Do not list exact grant amounts publicly unless already approved. -->
+
+## Current funding
+
+| Sponsor | Program | PI(s) | Lab(s) | Period |
+|---------|---------|-------|--------|--------|
+| *Sponsor name* | *Program / award type* | *PI name(s)* | *Lab* | *YYYY–YYYY* |
+| *Sponsor name* | *Program / award type* | *PI name(s)* | *Lab* | *YYYY–YYYY* |
+
+## Past funding
+
+| Sponsor | Program | PI(s) | Lab(s) | Period |
+|---------|---------|-------|--------|--------|
+| *Sponsor name* | *Program / award type* | *PI name(s)* | *Lab* | *YYYY–YYYY* |
+| *Sponsor name* | *Program / award type* | *PI name(s)* | *Lab* | *YYYY–YYYY* |
+
+## Proposal themes
+
+BioMIND actively pursues funding across the cluster's research thrusts. Recent and active proposal themes include:
+
+- **BioAI and biomolecular foundation models** — mRNA, protein, and multi-modal pretraining for biological discovery
+- **Molecular machine learning** and AI-assisted drug discovery
+- **Trustworthy, responsible, and human-centered AI** in scientific and societal settings
+- **Complex adaptive systems**, **network science**, and **information dynamics**
+- **Agentic AI** for scientific reasoning and biological discovery
+- **AI-guided nanomedicine** and next-generation therapeutics
+- **Cross-cutting cluster proposals** that integrate two or more thrusts
+
+## Acknowledgments
+
+Faculty and students publishing work supported by BioMIND member labs should include the appropriate sponsor acknowledgment in their papers. PIs maintain authoritative acknowledgment text for each award; please coordinate with the relevant PI before submission.
+
+::: {.bm-callout}
+**Editing.** Funding entries live in `funding/index.qmd`. After updating, please verify with the relevant PI before pushing to the public site.
+:::

@@ -1,0 +1,251 @@
+---
+title: ""
+pagetitle: "BioMIND — BioAI, Molecular Intelligence, Networks, and Discovery"
+description: "BioMIND is a UCF interdisciplinary research cluster advancing BioAI, molecular intelligence, biological foundation models, network science, complex adaptive systems, and trustworthy AI."
+toc: false
+page-layout: full
+include-in-header:
+  text: |
+    <meta name="theme-color" content="#0b2545">
+---
+
+::: {.bm-hero}
+::: {.bm-hero-inner}
+
+[UCF Interdisciplinary Research Cluster]{.bm-eyebrow}
+
+# BioMIND
+
+[BioAI, Molecular Intelligence, Networks, and Discovery]{.bm-subtitle}
+
+[BioMIND is a UCF interdisciplinary research cluster advancing BioAI, molecular intelligence, biological foundation models, network science, complex adaptive systems, and trustworthy AI for biological discovery and real-world intelligent systems.]{.bm-description}
+
+::: {.bm-hero-buttons}
+[Explore Research](research/index.qmd){.bm-btn .bm-btn-primary}
+[Meet the Team](people/index.qmd){.bm-btn .bm-btn-ghost}
+[View Publications](publications/index.qmd){.bm-btn .bm-btn-ghost}
+:::
+
+:::
+:::
+
+::: {.bm-section}
+## [Research Pillars]{.bm-section-title}
+
+[Six interconnected research thrusts unify BioMIND's work across BioAI, molecular machine learning, complex systems, and trustworthy intelligence.]{.bm-section-subtitle}
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-card .bm-pillar}
+[🧬]{.bm-card-icon}
+### BioAI & AI for Biology
+Machine learning models that read, generate, and reason about the molecules of life — proteins, nucleic acids, and beyond — to accelerate biological discovery.
+
+[Read more →](research/bioai.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[⚛️]{.bm-card-icon}
+### Molecular Machine Learning & Generative Discovery
+Geometric deep learning, diffusion, and equivariant architectures for molecular property prediction and de novo design across small molecules and biomolecules.
+
+[Read more →](research/molecular-ml.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🔬]{.bm-card-icon}
+### Biomolecular Foundation Models
+Pretraining and adaptation of large-scale models — including mRNA, protein, and multi-modal biomolecular foundation models — for downstream scientific tasks.
+
+[Read more →](research/foundation-models.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🌐]{.bm-card-icon}
+### Network Science & Complex Adaptive Systems
+Modeling collective dynamics, information flows, and emergent behavior in biological, social, and cyber-social systems.
+
+[Read more →](research/complex-systems.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🧠]{.bm-card-icon}
+### Explainable, Trustworthy & Human-Centered AI
+Methods and frameworks for interpretable, fair, accountable, and human-aligned AI systems in high-stakes scientific and societal settings.
+
+[Read more →](research/trustworthy-ai.qmd){.bm-card-link}
+:::
+
+::: {.bm-card .bm-pillar}
+[🤖]{.bm-card-icon}
+### Agentic AI for Scientific Discovery
+Autonomous and collaborative agents that hypothesize, plan experiments, and iterate with humans to drive scientific workflows in biology and beyond.
+
+[Read more →](research/agentic-ai.qmd){.bm-card-link}
+:::
+
+:::
+:::
+
+::: {.bm-section}
+## [Featured Labs]{.bm-section-title}
+
+[BioMIND brings together four UCF labs spanning BioAI, molecular ML, human-centered AI, and complex adaptive systems.]{.bm-section-subtitle}
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-lab-card}
+### Complex Adaptive Systems Lab (CASL)
+[Director — Ivan Garibay]{.bm-lab-pi}
+
+Complex adaptive systems, network science, information dynamics, computational social science, and the science of AI in society.
+
+[Learn more →](labs/casl.qmd)
+:::
+
+::: {.bm-lab-card}
+### Human-CAIR
+[Director — Ozlem Garibay]{.bm-lab-pi}
+
+Human-centered AI, trustworthy and responsible AI, explainability, and human–AI interaction in high-stakes domains.
+
+[Learn more →](labs/human-cair.qmd)
+:::
+
+::: {.bm-lab-card}
+### MoML — Molecular Machine Learning
+[Director — Ozlem Garibay]{.bm-lab-pi}
+
+Molecular machine learning, BioAI, molecular generation, and biomolecular foundation models for discovery.
+
+[Learn more →](labs/moml.qmd)
+:::
+
+::: {.bm-lab-card}
+### AIAIR
+[Director — Niloofar Yousefi]{.bm-lab-pi}
+
+Artificial intelligence, analytics, intelligent systems, bioinformatics, and applied AI research across science and engineering.
+
+[Learn more →](labs/aiair.qmd)
+:::
+
+:::
+:::
+
+::: {.bm-section}
+## [News]{.bm-section-title}
+
+[The latest from BioMIND.]{.bm-section-subtitle}
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-news-card}
+[May 2026]{.bm-news-date}
+#### BioMIND beta website launched
+The BioMIND beta website is being developed to showcase UCF research at the intersection of BioAI, molecular intelligence, complex systems, and trustworthy AI.
+:::
+
+::: {.bm-news-card}
+[May 2026]{.bm-news-date}
+#### Name selected: BioMIND
+The cluster name BioMIND reflects the group's focus on BioAI, molecular intelligence, networks, and discovery.
+:::
+
+::: {.bm-news-card}
+[May 2026]{.bm-news-date}
+#### Student and faculty profiles being collected
+BioMIND is collecting updated bios, publication lists, profile links, and headshots from affiliated students and faculty.
+:::
+
+:::
+
+[See all news →](news/index.qmd){.bm-btn .bm-btn-primary}
+:::
+
+::: {.bm-section}
+## [Featured Publications]{.bm-section-title}
+
+[Selected representative work across BioMIND's research thrusts. The full list lives on the [Publications](publications/index.qmd) page.]{.bm-section-subtitle}
+
+::: {.bm-pub-card}
+[[Six Human-Centered Artificial Intelligence Grand Challenges.](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2153320)]{.bm-pub-title}
+
+[Ozmen Garibay, O. *et al.*]{.bm-pub-authors}
+
+[*International Journal of Human-Computer Interaction* · 2023]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Human-Centered AI]{.bm-pub-tag} [Responsible AI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[[AttentionSiteDTI: An Interpretable Graph-Based Model for Drug-Target Interaction Prediction Using NLP Sentence-Level Relation Classification.](https://academic.oup.com/bib/article/23/4/bbac272/6640006)]{.bm-pub-title}
+
+[Yazdani-Jahromi, M.; Yousefi, N.; Tayebi, A.; Ozmen Garibay, O.; Seal, S.; Kolanthai, E.; Neal, C. J.]{.bm-pub-authors}
+
+[*Briefings in Bioinformatics* · 2022]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[BioAI]{.bm-pub-tag} [Molecular ML]{.bm-pub-tag} [Drug Discovery]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[[BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation.](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf137/8159881)]{.bm-pub-title}
+
+[Khodabandeh Yalabadi, A.; Yazdani-Jahromi, M.; Ozmen Garibay, O.]{.bm-pub-authors}
+
+[*Bioinformatics Advances* · 2025]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Molecular ML]{.bm-pub-tag} [Diffusion Models]{.bm-pub-tag} [Drug Discovery]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[[UnbiasedDTI: Mitigating Real-World Bias of Drug-Target Interaction Prediction by Using Deep Ensemble-Balanced Learning.](https://www.mdpi.com/1420-3049/27/9/2980)]{.bm-pub-title}
+
+[Tayebi, A.; Yousefi, N.; Yazdani-Jahromi, M.; Kolanthai, E.; Neal, C. J.; Seal, S.; Ozmen Garibay, O.]{.bm-pub-authors}
+
+[*Molecules* · 2022]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[BioAI]{.bm-pub-tag} [Drug Discovery]{.bm-pub-tag} [Responsible AI]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[[Local Rademacher Complexity-Based Learning Guarantees for Multi-Task Learning.](https://jmlr.org/papers/v19/17-144.html)]{.bm-pub-title}
+
+[Yousefi, N.; Lei, Y.; Kloft, M.; Mollaghasemi, M.; Anagnostopoulos, G.]{.bm-pub-authors}
+
+[*Journal of Machine Learning Research* · 2018]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Learning Theory]{.bm-pub-tag} [Multi-Task Learning]{.bm-pub-tag}
+:::
+:::
+
+::: {.bm-pub-card}
+[Future Directions and Applications of Artificial Intelligence.]{.bm-pub-title}
+
+[Garibay, I.; Barham, C.; Abdidizaji, S.; Jayalath, C.]{.bm-pub-authors}
+
+[*Advances in Artificial Intelligence Applications* · 2025]{.bm-pub-venue}
+
+::: {.bm-pub-tags}
+[Artificial Intelligence]{.bm-pub-tag} [Complex Systems]{.bm-pub-tag}
+:::
+:::
+
+[See full publication list →](publications/index.qmd){.bm-btn .bm-btn-primary}
+:::
+
+::: {.bm-cta}
+## Get in touch
+Interested in collaboration, seminars, student opportunities, or BioAI research partnerships? We welcome conversations with academic, industry, government, and nonprofit partners.
+
+[Contact BioMIND](contact.qmd){.bm-btn .bm-btn-gold}
+:::

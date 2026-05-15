@@ -1,0 +1,27 @@
+---
+title: "Name selected: BioMIND"
+description: "The cluster name BioMIND reflects the group's focus on BioAI, molecular intelligence, networks, and discovery."
+date: "2026-05-10"
+categories: [announcement, cluster, identity]
+author: "BioMIND"
+---
+
+After cross-lab consultation, the cluster has adopted the name:
+
+> **BioMIND — BioAI, Molecular Intelligence, Networks, and Discovery**
+
+The name reflects the cluster's research identity and the four labs that compose it.
+
+## Why this name
+
+- **Bio** anchors the cluster in biology — its primary scientific focus.
+- **MIND** brings together the AI and intelligent-systems thrusts that unify the labs.
+- The expansion — **B**ioAI, **M**olecular **I**ntelligence, **N**etworks, and **D**iscovery — communicates the four pillars succinctly to external audiences (grant reviewers, students, collaborators).
+
+## Identity going forward
+
+- The cluster's website, talks, and external communications will use the BioMIND name and visual identity.
+- Each member lab — CASL, Human-CAIR, MoML, AIAIR — retains its own scientific identity, history, and leadership.
+- BioMIND serves as the umbrella for joint efforts: shared seminars, joint grants, co-advised students, and a unified public presence.
+
+A visual identity and logo are being finalized; the current site uses placeholder elements aligned with the cluster's color palette.

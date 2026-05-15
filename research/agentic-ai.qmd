@@ -1,0 +1,60 @@
+---
+title: "Agentic AI for Scientific Discovery"
+subtitle: "Reasoning, tool-using, and autonomous AI for scientific workflows"
+description: "BioMIND research on agentic AI systems for biological discovery, automated hypothesis generation, scientific reasoning, and human-AI collaboration."
+---
+
+## Overview
+
+This area focuses on **AI systems that can reason, use tools, coordinate workflows, and support scientific discovery**. BioMIND is interested in agentic AI for biological discovery, automated hypothesis generation, scientific reasoning, model-based discovery, information gathering, and human-AI collaboration.
+
+## Key themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Agentic AI systems
+LLM-driven agents that plan, reason, and act on structured scientific workflows.
+:::
+
+::: {.bm-card}
+### AI-assisted scientific workflows
+End-to-end pipelines combining reasoning, retrieval, and computation.
+:::
+
+::: {.bm-card}
+### Tool-using AI
+Tool-augmented agents that call predictors, generators, and external knowledge.
+:::
+
+::: {.bm-card}
+### Multi-agent systems
+Coordination, role specialization, debate, and self-improvement among interacting agents.
+:::
+
+::: {.bm-card}
+### Human-AI collaboration
+Mixed-initiative interfaces and shared authority for scientific reasoning.
+:::
+
+::: {.bm-card}
+### AI for research translation
+Bridging from method to application via agentic discovery loops.
+:::
+
+::: {.bm-card}
+### Scientific decision support
+Calibrated, explainable AI for hypothesis generation and prioritization.
+:::
+
+:::
+
+## Related faculty
+
+- [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL (foundation models, LLMs, agentic systems)
+- [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — Human-CAIR / MoML (trustworthy, human-aligned agents)
+- [Niloofar Yousefi](../people/faculty.qmd#niloofar-yousefi) — AI-AIR (applied agentic AI for science and biomedicine)
+
+## Representative publications
+
+See the [Publications](../publications/index.qmd) page. Agentic AI is a rapidly developing thrust — selected outputs will be added as preprints and papers appear.

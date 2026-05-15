@@ -1,0 +1,20 @@
+---
+title: "Profiles and publication lists being collected"
+description: "BioMIND is collecting short bios, profile links, publications, and headshots from affiliated faculty and students."
+date: "2026-05-08"
+categories: [announcement, profiles]
+author: "BioMIND"
+---
+
+BioMIND is collecting **short bios, profile links, publications, and headshots** from affiliated faculty and students for inclusion in the public directory.
+
+If you are a BioMIND member, please follow the [Content collection checklist](../../README.md) in the README to gather and submit your materials. Files can be dropped into the gitignored `_inbox/` folder of the repository, sent to the cluster coordinator, or submitted as a pull request.
+
+We are also collecting:
+
+- Student profiles (Ph.D., M.S., undergraduate)
+- Alumni records and current positions
+- Publication lists for the central `publications/publications.bib`
+- Lab-specific updates
+
+Profiles populated so far are visible on the [Faculty](../../people/faculty.qmd) page.

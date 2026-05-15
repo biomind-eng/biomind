@@ -1,0 +1,55 @@
+---
+title: "Biomolecular Foundation Models"
+subtitle: "Foundation models for biology, mRNA, proteins, omics, and scientific discovery"
+description: "BioMIND research on biomolecular foundation models, mRNA foundation models, biological NLP, and representation learning for scientific discovery."
+---
+
+## Overview
+
+BioMIND studies **foundation models for biological and scientific data**, including **mRNA foundation models**, protein and genomic sequence models, biological NLP, and representation learning for scientific discovery. This area connects large language models, biological sequence modeling, and scalable AI systems for understanding and designing biological systems.
+
+## Example themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### mRNA foundation models
+Pretraining strategies and downstream applications for coding and noncoding RNA.
+:::
+
+::: {.bm-card}
+### Biological sequence modeling
+Self-supervised and instruction-tuned models for biological sequences across modalities.
+:::
+
+::: {.bm-card}
+### Protein and omics representation learning
+Joint sequence/structure/function representations and adaptation to data-poor settings.
+:::
+
+::: {.bm-card}
+### NLP for biology
+Language-modeling and relation-classification approaches adapted to biological data.
+:::
+
+::: {.bm-card}
+### AI4Science model scaling
+Architectures, objectives, and scaling laws specific to scientific data.
+:::
+
+::: {.bm-card}
+### Interpretable foundation models for science
+Probing, attribution, and faithful explanation methods for large biological models.
+:::
+
+:::
+
+## Related faculty
+
+- [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL (foundation models, LLMs, AI for scientific discovery)
+- [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — Human-CAIR / MoML (interpretable / molecular foundation models)
+- [Niloofar Yousefi](../people/faculty.qmd#niloofar-yousefi) — AI-AIR (generative AI for science, applied biomedical FMs)
+
+## Representative publications
+
+See the [Publications](../publications/index.qmd) page; biomolecular foundation-model work appears under *BioAI & Molecular Machine Learning* and *Selected Publications*.

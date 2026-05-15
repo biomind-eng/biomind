@@ -1,0 +1,59 @@
+---
+title: "BioAI & AI for Biology"
+subtitle: "Machine learning, foundation models, and intelligent systems for biology"
+description: "BioMIND research on AI for biology: machine learning, bioinformatics, AI-guided drug discovery, molecular intelligence, omics, and biological sequence modeling."
+---
+
+## Overview
+
+BioMIND develops AI methods for **biological discovery, biomedical modeling, and scientific understanding**. This area includes machine learning for biological data, bioinformatics, AI-guided drug discovery, molecular intelligence, omics, biological sequence modeling, and AI4Science workflows.
+
+## Key Questions
+
+- How can AI systems learn useful representations of biological sequences, molecules, and biological networks?
+- How can machine learning accelerate biological discovery and therapeutic design?
+- How can BioAI systems remain interpretable, trustworthy, and scientifically grounded?
+- How can biological data, molecular structure, and domain knowledge be integrated into modern AI models?
+
+## Methods and themes
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+### Representation learning for biology
+Self-supervised pretraining on biological sequences, structures, and multi-omics data; transfer to downstream tasks.
+:::
+
+::: {.bm-card}
+### Bioinformatics and biomedical AI
+Statistical learning and ML methods for genomic, proteomic, and biomedical datasets.
+:::
+
+::: {.bm-card}
+### AI-guided discovery
+Active learning, design loops, and AI-assisted hypothesis generation for biology and therapeutics.
+:::
+
+::: {.bm-card}
+### Trustworthy BioAI
+Interpretability, calibration, fairness, and rigorous evaluation in biological ML.
+:::
+
+:::
+
+## Example projects
+
+- Interpretable graph-based deep learning for **drug-target interaction prediction** ([AttentionSiteDTI](../publications/index.qmd))
+- **Bias-aware** drug-target interaction prediction with ensemble-balanced learning ([UnbiasedDTI](../publications/index.qmd))
+- **Binding-site augmented** drug-target affinity modeling for drug repurposing ([BindingSite-AugmentedDTA](../publications/index.qmd))
+- mRNA and biological-sequence **foundation models** for downstream biological tasks
+
+## Related faculty
+
+- [Ozlem Ozmen Garibay](../people/faculty.qmd#ozlem-ozmen-garibay) — Human-CAIR / MoML
+- [Niloofar Yousefi](../people/faculty.qmd#niloofar-yousefi) — AI-AIR
+- [Ivan I. Garibay](../people/faculty.qmd#ivan-i-garibay) — CASL
+
+## Representative publications
+
+See the [Publications](../publications/index.qmd) page for the full record; selected BioAI work is highlighted under *Selected Publications* and *BioAI & Molecular Machine Learning*.

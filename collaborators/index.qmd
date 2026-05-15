@@ -1,0 +1,51 @@
+---
+title: "Collaborators"
+subtitle: "Partners across UCF, academia, industry, government, and the nonprofit sector"
+description: "BioMIND collaborators across UCF, peer institutions, industry, government, and international partners. Listings are reviewed before publication."
+---
+
+BioMIND collaborates across **disciplines and institutions**. Collaborator listings will be added after faculty approval.
+
+::: {.bm-callout .bm-callout-gold}
+**Approval required.** Listings of external organizations and individuals should be reviewed and approved by the relevant collaborators before publication. Please verify with the partner organization before adding a name or logo to this page.
+:::
+
+## UCF collaborators
+
+Internal partners across colleges, departments, centers, and initiatives at the University of Central Florida.
+
+| Partner | Type | Focus | Lab(s) |
+|---------|------|-------|--------|
+| *College / department / center* | UCF unit | *Topic area* | *Lab* |
+| *College / department / center* | UCF unit | *Topic area* | *Lab* |
+
+## External academic collaborators
+
+Faculty and groups at peer institutions in the United States and abroad.
+
+| Partner | Institution | Focus | Lab(s) |
+|---------|-------------|-------|--------|
+| *Faculty / group* | *University* | *Topic area* | *Lab* |
+| *Faculty / group* | *University* | *Topic area* | *Lab* |
+
+## Industry and government collaborators
+
+Sponsored research, joint projects, and collaborative engagement with organizations outside academia.
+
+| Partner | Sector | Focus | Lab(s) |
+|---------|--------|-------|--------|
+| *Organization* | Industry / Government / Nonprofit | *Topic area* | *Lab* |
+| *Organization* | Industry / Government / Nonprofit | *Topic area* | *Lab* |
+
+## International collaborators
+
+Active international collaborations across continents.
+
+| Partner | Country | Focus | Lab(s) |
+|---------|---------|-------|--------|
+| *Group / institution* | *Country* | *Topic area* | *Lab* |
+| *Group / institution* | *Country* | *Topic area* | *Lab* |
+
+::: {.bm-callout}
+**Editing.** Collaborator entries live in `collaborators/index.qmd`. Please obtain approval from external partners before listing them publicly.
+:::

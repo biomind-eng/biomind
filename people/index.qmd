@@ -1,0 +1,47 @@
+---
+title: "People"
+subtitle: "Faculty, students, alumni, and collaborators of BioMIND"
+description: "Researchers and trainees across BioMIND's member labs at the University of Central Florida."
+---
+
+BioMIND brings together faculty, graduate students, undergraduates, alumni, and collaborators across UCF and beyond. Profiles are organized by category below.
+
+::: {.bm-grid .bm-grid-2}
+
+::: {.bm-card}
+[👥]{.bm-card-icon}
+### Faculty
+Principal investigators leading BioMIND's research thrusts and member labs.
+
+[View faculty →](faculty.qmd){.bm-card-link}
+:::
+
+::: {.bm-card}
+[🎓]{.bm-card-icon}
+### Students
+Graduate and undergraduate researchers across the cluster's labs.
+
+[View students →](students.qmd){.bm-card-link}
+:::
+
+::: {.bm-card}
+[🌟]{.bm-card-icon}
+### Alumni
+Former members now in academia, industry, and government.
+
+[View alumni →](alumni.qmd){.bm-card-link}
+:::
+
+::: {.bm-card}
+[🤝]{.bm-card-icon}
+### Collaborators
+Partners across UCF, other universities, industry, government, and nonprofits.
+
+[View collaborators →](../collaborators/index.qmd){.bm-card-link}
+:::
+
+:::
+
+::: {.bm-callout .bm-callout-gold}
+**Profile collection in progress.** Faculty and student profiles are being collected. If you are a BioMIND member, please see the README for the content checklist and submit your materials to the cluster coordinator.
+:::

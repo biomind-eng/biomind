@@ -1,0 +1,248 @@
+---
+title: "Faculty"
+subtitle: "Principal investigators of BioMIND"
+description: "BioMIND faculty leading research across CASL, Human-CAIR, MoML, and AI-AIR at the University of Central Florida."
+---
+
+BioMIND is led by three faculty at the University of Central Florida, with overlapping expertise spanning **BioAI**, **molecular machine learning**, **biomolecular foundation models**, **complex adaptive systems**, **network science**, **trustworthy and human-centered AI**, and **agentic AI for scientific discovery**.
+
+## Faculty at a glance
+
+::: {.bm-grid .bm-grid-3}
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Ivan I. Garibay](../assets/people/ivan-garibay.jpeg)
+:::
+### Ivan I. Garibay
+[Professor · IEMS · UCF]{.bm-person-role}
+[Director, Complex Adaptive Systems Laboratory]{.bm-person-affil}
+
+Complex adaptive systems, network science, foundation models, agentic AI, and information dynamics for biological and societal discovery.
+
+::: {.bm-person-links}
+[Profile](#ivan-i-garibay)
+[Email](mailto:Ivan.Garibay@ucf.edu)
+[Website](https://www.cs.ucf.edu/~garibay/)
+[Lab](../labs/casl.qmd)
+:::
+:::
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Ozlem Ozmen Garibay](../assets/people/ozlem-garibay.jpeg)
+:::
+### Ozlem Ozmen Garibay
+[Assistant Professor · IEMS · UCF]{.bm-person-role}
+[Director, Human-CAIR · MoML]{.bm-person-affil}
+
+Human-centered AI, responsible AI, explainability, molecular machine learning, and AI-assisted drug discovery.
+
+::: {.bm-person-links}
+[Profile](#ozlem-ozmen-garibay)
+[Email](mailto:ozlem@ucf.edu)
+[UCF profile](https://www.cecs.ucf.edu/faculty/ozlem-ozmen-garibay/)
+[Scholar](https://scholar.google.com/citations?user=0RKzNtIAAAAJ&hl=en)
+:::
+:::
+
+::: {.bm-person-card}
+::: {.bm-person-photo}
+![Headshot of Niloofar Yousefi](../assets/people/niloofar-yousefi.jpeg)
+:::
+### Niloofar Yousefi
+[Assistant Professor · IEMS · UCF]{.bm-person-role}
+[Director, AI-AIR]{.bm-person-affil}
+
+Applied AI, machine learning, bioinformatics, AI-guided drug discovery, AI-guided nanomedicine, generative AI for science, and statistical learning theory.
+
+::: {.bm-person-links}
+[Profile](#niloofar-yousefi)
+[Email](mailto:niloofar.yousefi@ucf.edu)
+[UCF profile](https://www.cecs.ucf.edu/faculty/niloofar-yousefi/)
+[Scholar](https://scholar.google.com/citations?user=DsciMcMAAAAJ&hl=en)
+:::
+:::
+
+:::
+
+---
+
+## Ivan I. Garibay
+
+[Professor, Industrial Engineering and Management Systems · University of Central Florida]{.bm-person-role}
+
+**Roles**
+
+- Director, Complex Adaptive Systems Laboratory ([CASL](../labs/casl.qmd))
+- Director, UCF Master of Science in Data Analytics
+- Joint Faculty, Computer Science
+- Joint Faculty, Learning Sciences Cluster
+
+**Bio**
+
+Ivan I. Garibay is Professor in the Department of Industrial Engineering and Management Systems at the University of Central Florida and Director of the Complex Adaptive Systems Laboratory. His research spans artificial intelligence, complex adaptive systems, foundation models, large language models, network science, agent-based modeling, information diffusion, misinformation dynamics, cognitive cybersecurity, computational social science, and multi-agent systems. His work develops AI and complex-systems approaches for modeling large-scale adaptive systems, including social, cyber, organizational, and scientific systems. Within BioMIND, his work provides foundations in complex systems, networks, explainable AI, agentic systems, and information dynamics for biological discovery and trustworthy intelligent systems.
+
+**Role within BioMIND**
+
+Complex systems, network science, information dynamics, agent-based modeling, foundation models, LLMs, explainable AI, agentic systems, and AI for large-scale adaptive systems.
+
+::: {.bm-glance}
+#### Selected highlights
+
+<!-- TODO(faculty-approval): Confirm exact numbers below before public launch. -->
+
+- Director, Complex Adaptive Systems Laboratory
+- Director, UCF Master of Science in Data Analytics
+- 100+ scholarly publications since joining UCF
+- $16M+ in research funding secured and managed at UCF
+- Research leadership across NSF, DARPA, industry, and UCF AI/data initiatives
+- Mentorship across doctoral, postdoctoral, graduate, and undergraduate researchers
+- Patented and patent-pending AI technologies, including work related to sarcasm detection and mRNA language models
+:::
+
+**Research keywords**
+
+::: {.bm-tags}
+[Complex Adaptive Systems]{.bm-tag} [Artificial Intelligence]{.bm-tag} [Foundation Models]{.bm-tag} [Large Language Models]{.bm-tag} [Network Science]{.bm-tag} [Agent-Based Modeling]{.bm-tag} [Information Diffusion]{.bm-tag} [Misinformation Dynamics]{.bm-tag} [Cognitive Cybersecurity]{.bm-tag} [Computational Social Science]{.bm-tag} [Multi-Agent Systems]{.bm-tag} [Explainable AI]{.bm-tag} [AI for Scientific Discovery]{.bm-tag}
+:::
+
+**Selected publications and outputs**
+
+<!-- TODO(faculty-approval): Replace placeholders with a faculty-approved selected publications list before public launch. -->
+
+::: {.bm-pub-card}
+[Future Directions and Applications of Artificial Intelligence.]{.bm-pub-title}
+
+[Garibay, I.; Barham, C.; Abdidizaji, S.; Jayalath, C.]{.bm-pub-authors}
+
+[*Advances in Artificial Intelligence Applications* · 2025]{.bm-pub-venue}
+:::
+
+::: {.bm-pub-card}
+[*Selected complex systems, network science, AI, and information dynamics publications to be updated after faculty review.*]{.bm-pub-title}
+:::
+
+::: {.bm-pub-card}
+[*Selected BioMIND-relevant publications and AI / foundation-model outputs to be updated after faculty review.*]{.bm-pub-title}
+:::
+
+**Patents and innovation**
+
+Dr. Garibay's research has contributed to patented and patent-pending AI technologies, including deep learning methods for social media text analysis and emerging mRNA language model methods.
+
+::: {.bm-person-links}
+[Email](mailto:Ivan.Garibay@ucf.edu)
+[Website](https://www.cs.ucf.edu/~garibay/)
+[CASL](../labs/casl.qmd)
+:::
+
+---
+
+## Ozlem Ozmen Garibay
+
+[Assistant Professor, Industrial Engineering and Management Systems · University of Central Florida]{.bm-person-role}
+
+**Roles**
+
+- Director, Human-Centered Artificial Intelligence Research Lab ([Human-CAIR](../labs/human-cair.qmd))
+- Faculty contributor, [MoML — Molecular Machine Learning](../labs/moml.qmd)
+
+**Contact**
+
+- **Office:** Engineering II, Room 403
+- **Phone:** 407-882-1122
+- **Email:** [ozlem@ucf.edu](mailto:ozlem@ucf.edu)
+
+**Bio**
+
+Ozlem Ozmen Garibay is an Assistant Professor in the Department of Industrial Engineering and Management Systems at the University of Central Florida, where she directs the Human-Centered Artificial Intelligence Research Lab. Her research spans human-centered AI, responsible and explainable AI, fairness in machine learning, social cybersecurity, human-machine teams, network science, complex systems, and molecular machine learning. Within BioMIND, her work connects trustworthy AI and BioAI through research on interpretable machine learning, AI-assisted drug discovery, molecular intelligence, and human-centered intelligent systems.
+
+**Role within BioMIND**
+
+Human-centered AI, responsible AI, explainable AI, fairness, molecular machine learning, AI-assisted drug discovery, trustworthy BioAI, and human-AI systems.
+
+::: {.bm-glance}
+#### Positioning within BioMIND
+
+Dr. Ozmen Garibay anchors BioMIND's work in human-centered, responsible, and explainable AI, while also contributing to molecular machine learning and AI-assisted drug discovery. Her work helps ensure that BioAI systems are not only powerful, but also interpretable, fair, trustworthy, and useful to scientists and society.
+:::
+
+**Education**
+
+- Ph.D., Computer Science, University of Central Florida, 2008
+- M.S., Computer Science, University of Central Florida, 2001
+- B.S., Electrical and Electronics Engineering, Middle East Technical University, 1998
+
+**Research keywords**
+
+::: {.bm-tags}
+[Human-Centered AI]{.bm-tag} [Responsible AI]{.bm-tag} [Explainable AI]{.bm-tag} [Fairness in AI]{.bm-tag} [Molecular Machine Learning]{.bm-tag} [AI for Drug Discovery]{.bm-tag} [BioAI]{.bm-tag} [Social Cybersecurity]{.bm-tag} [Human-Machine Teams]{.bm-tag} [Network Science]{.bm-tag} [Complex Systems]{.bm-tag} [Artificial Social Intelligence]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[Email](mailto:ozlem@ucf.edu)
+[UCF CECS profile](https://www.cecs.ucf.edu/faculty/ozlem-ozmen-garibay/)
+[UCF IEMS profile](https://iems.ucf.edu/faculty/ozlem-ozmen-garibay/)
+[Google Scholar](https://scholar.google.com/citations?user=0RKzNtIAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/ozlem-ozmen-garibay/)
+[Human-CAIR](../labs/human-cair.qmd)
+[MoML](../labs/moml.qmd)
+:::
+
+---
+
+## Niloofar Yousefi
+
+[Assistant Professor, Industrial Engineering and Management Systems · University of Central Florida]{.bm-person-role}
+
+**Roles**
+
+- Director, Applied Innovative Artificial Intelligence Research Lab ([AI-AIR](../labs/aiair.qmd))
+
+**Contact**
+
+- **Office:** Engineering II, Room 320
+- **Phone:** 407-823-2204
+- **Email:** [niloofar.yousefi@ucf.edu](mailto:niloofar.yousefi@ucf.edu)
+
+**Bio**
+
+Niloofar Yousefi is an Assistant Professor in the Department of Industrial Engineering and Management Systems at the University of Central Florida and leads the Applied Innovative Artificial Intelligence Research Lab, AI-AIR. Her research focuses on machine learning, artificial intelligence, statistical learning theory, bioinformatics, drug discovery, and agent-based modeling. Her work develops AI/ML methods for scientific and biomedical applications, including generative AI for science, AI-guided nanomedicine, next-generation therapeutics, and data-driven biological discovery. Within BioMIND, Dr. Yousefi contributes core expertise in applied AI, bioinformatics, AI-guided drug discovery, and machine learning for biological and scientific systems.
+
+**Role within BioMIND**
+
+Applied AI, machine learning, bioinformatics, drug discovery, AI-guided nanomedicine, generative AI for science, statistical learning theory, and scientific AI systems.
+
+::: {.bm-glance}
+#### Positioning within BioMIND
+
+Dr. Yousefi anchors BioMIND's applied AI and biomedical discovery direction, including machine learning for biological data, drug discovery, bioinformatics, AI-guided therapeutics, generative AI for science, and next-generation scientific AI systems.
+:::
+
+**Education**
+
+- Ph.D., Industrial Engineering / Operations Research, University of Central Florida
+- M.S., Operations Research, University of Tehran
+- B.S., Applied Mathematics, Iran University of Science & Technology
+
+**Research keywords**
+
+::: {.bm-tags}
+[Machine Learning]{.bm-tag} [Artificial Intelligence]{.bm-tag} [Generative AI for Science]{.bm-tag} [Bioinformatics]{.bm-tag} [AI-Guided Drug Discovery]{.bm-tag} [AI-Guided Nanomedicine]{.bm-tag} [Next-Generation Therapeutics]{.bm-tag} [Statistical Learning Theory]{.bm-tag} [Multi-Task Learning]{.bm-tag} [Agent-Based Modeling]{.bm-tag} [Computational Social Science]{.bm-tag} [Human-Centered AI]{.bm-tag}
+:::
+
+::: {.bm-person-links}
+[Email](mailto:niloofar.yousefi@ucf.edu)
+[UCF CECS profile](https://www.cecs.ucf.edu/faculty/niloofar-yousefi/)
+[UCF IEMS profile](https://iems.ucf.edu/faculty/niloofar-yousefi/)
+[Google Scholar](https://scholar.google.com/citations?user=DsciMcMAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/niloofarusefi/)
+[AI-AIR](../labs/aiair.qmd)
+:::
+
+---
+
+::: {.bm-callout .bm-callout-gold}
+**Editing this page.** Faculty profiles live in `people/faculty.qmd`. Bios, links, research tags, and selected publications can be edited directly. Headshots are stored in `assets/people/` and referenced inside each `bm-person-photo` block as an image with descriptive alt text.
+:::
