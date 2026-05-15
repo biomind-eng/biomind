@@ -105,8 +105,8 @@ BioAI, machine learning, generative AI, foundation models for gene regulation, r
 ![Headshot of Elias Hossain](../assets/people/elias-hossain.jpg)
 :::
 ### Elias Hossain
-[Ph.D. · Industrial Engineering]{.bm-person-role}
-[Advisor: Dr. Niloofar Yousefi]{.bm-person-affil}
+[Ph.D. · Post-Masters Track · Industrial Engineering]{.bm-person-role}
+[Advisors: Dr. Niloofar Yousefi (major) · Dr. Ivan Garibay (co-advisor)]{.bm-person-affil}
 
 Trustworthy AI, uncertainty quantification in LLMs, preference optimization, reinforcement learning, agentic AI.
 :::

@@ -78,10 +78,10 @@ Mehrdad Shoeibi is a first-year Ph.D. student in Industrial Engineering at the U
 ![Headshot of Elias Hossain](../assets/people/elias-hossain.jpg)
 :::
 ### Elias Hossain
-[First-Year Ph.D. Student · Industrial Engineering]{.bm-person-role}
-[Advisor: Dr. Niloofar Yousefi]{.bm-person-affil}
+[Ph.D. Student · Post-Masters Track · Industrial Engineering]{.bm-person-role}
+[Major Advisor: Dr. Niloofar Yousefi · Co-advisor: Dr. Ivan Garibay]{.bm-person-affil}
 
-Elias Hossain is a first-year Ph.D. student in Industrial Engineering at the University of Central Florida, advised by Dr. Niloofar Yousefi. His research focuses on uncertainty quantification in large language models, trustworthy AI, LLM alignment, preference optimization, uncertainty-aware reasoning, reinforcement learning, and agentic AI. Before joining UCF, he completed an M.S. in Computer Science at Mississippi State University, where his research concentrated on LLM-based topic modeling, cybersecurity, and healthcare AI. His previous work includes contrastive learning for anomaly detection in large-scale security logs, domain-specific LLMs for threat reasoning, retrieval-augmented generation systems, speech AI, and medical AI applications.
+Elias Hossain is a Ph.D. student on the post-masters track in Industrial Engineering at the University of Central Florida, advised by Dr. Niloofar Yousefi (major advisor) and Dr. Ivan Garibay (co-advisor). His research focuses on uncertainty quantification in large language models, trustworthy AI, LLM alignment, preference optimization, uncertainty-aware reasoning, reinforcement learning, and agentic AI. Before joining UCF, he completed an M.S. in Computer Science at Mississippi State University, where his research concentrated on LLM-based topic modeling, cybersecurity, and healthcare AI. His previous work includes contrastive learning for anomaly detection in large-scale security logs, domain-specific LLMs for threat reasoning, retrieval-augmented generation systems, speech AI, and medical AI applications.
 
 ::: {.bm-glance}
 #### Research impact
